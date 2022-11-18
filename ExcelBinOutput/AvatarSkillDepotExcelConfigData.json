@@ -421,6 +421,49 @@
         "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Boy_Electric"
     },
     {
+        "id": 508,
+        "energySkill": 10118,
+        "skills": [
+            100547,
+            10117,
+            0,
+            0
+        ],
+        "subSkills": [
+            10001,
+            10054,
+            5005010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116
+        ],
+        "talentStarName": "Talent_PlayerBoy_Grass",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupId": 1121,
+                "needAvatarPromoteLevel": 1
+            },
+            {
+                "proudSkillGroupId": 1122,
+                "needAvatarPromoteLevel": 4
+            },
+            {},
+            {},
+            {}
+        ],
+        "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Boy_Grass"
+    },
+    {
         "id": 601,
         "energySkill": 10062,
         "skills": [
@@ -752,6 +795,49 @@
             {}
         ],
         "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Girl_Electric"
+    },
+    {
+        "id": 708,
+        "energySkill": 10118,
+        "skills": [
+            100557,
+            10117,
+            0,
+            0
+        ],
+        "subSkills": [
+            10001,
+            10055,
+            5007010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116
+        ],
+        "talentStarName": "Talent_PlayerGirl_Grass",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupId": 1121,
+                "needAvatarPromoteLevel": 1
+            },
+            {
+                "proudSkillGroupId": 1122,
+                "needAvatarPromoteLevel": 4
+            },
+            {},
+            {},
+            {}
+        ],
+        "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Girl_Grass"
     },
     {
         "id": 1401,
@@ -2623,6 +2709,96 @@
         "skillDepotAbilityGroup": ""
     },
     {
+        "id": 5901,
+        "energySkill": 10595,
+        "skills": [
+            10591,
+            10592,
+            0,
+            0
+        ],
+        "subSkills": [
+            10003,
+            5059010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            591,
+            592,
+            593,
+            594,
+            595,
+            596
+        ],
+        "talentStarName": "Talent_Heizo",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupId": 5921,
+                "needAvatarPromoteLevel": 1
+            },
+            {
+                "proudSkillGroupId": 5922,
+                "needAvatarPromoteLevel": 4
+            },
+            {
+                "proudSkillGroupId": 5923
+            },
+            {},
+            {}
+        ],
+        "skillDepotAbilityGroup": ""
+    },
+    {
+        "id": 6001,
+        "energySkill": 10610,
+        "skills": [
+            10606,
+            10607,
+            0,
+            0
+        ],
+        "subSkills": [
+            10608,
+            10609,
+            5060010
+        ],
+        "attackModeSkill": 20000,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            601,
+            602,
+            603,
+            604,
+            605,
+            606
+        ],
+        "talentStarName": "Talent_Yelan",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupId": 6021,
+                "needAvatarPromoteLevel": 1
+            },
+            {
+                "proudSkillGroupId": 6022,
+                "needAvatarPromoteLevel": 4
+            },
+            {
+                "proudSkillGroupId": 6023
+            },
+            {},
+            {}
+        ],
+        "skillDepotAbilityGroup": ""
+    },
+    {
         "id": 6201,
         "energySkill": 10625,
         "skills": [
@@ -2759,6 +2935,54 @@
         "skillDepotAbilityGroup": ""
     },
     {
+        "id": 6501,
+        "energySkill": 10655,
+        "skills": [
+            10651,
+            10652,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102,
+            10001,
+            10656,
+            10657,
+            5065010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            651,
+            652,
+            653,
+            654,
+            655,
+            656
+        ],
+        "talentStarName": "Talent_Shinobu",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupId": 6521,
+                "needAvatarPromoteLevel": 1
+            },
+            {
+                "proudSkillGroupId": 6522,
+                "needAvatarPromoteLevel": 4
+            },
+            {
+                "proudSkillGroupId": 6523
+            },
+            {},
+            {}
+        ],
+        "skillDepotAbilityGroup": ""
+    },
+    {
         "id": 6601,
         "energySkill": 10665,
         "skills": [
@@ -2798,6 +3022,399 @@
             {
                 "proudSkillGroupId": 6623
             },
+            {},
+            {}
+        ],
+        "skillDepotAbilityGroup": ""
+    },
+    {
+        "id": 6701,
+        "energySkill": 10675,
+        "skills": [
+            10671,
+            10672,
+            0,
+            0
+        ],
+        "subSkills": [
+            10674,
+            5067010
+        ],
+        "attackModeSkill": 20000,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            671,
+            672,
+            673,
+            674,
+            675,
+            676
+        ],
+        "talentStarName": "Talent_Collei",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupId": 6721,
+                "needAvatarPromoteLevel": 1
+            },
+            {
+                "proudSkillGroupId": 6722,
+                "needAvatarPromoteLevel": 4
+            },
+            {
+                "proudSkillGroupId": 6723
+            },
+            {},
+            {}
+        ],
+        "skillDepotAbilityGroup": ""
+    },
+    {
+        "id": 6801,
+        "energySkill": 10685,
+        "skills": [
+            10681,
+            10682,
+            0,
+            0
+        ],
+        "subSkills": [
+            5068010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            681,
+            682,
+            683,
+            684,
+            685,
+            686
+        ],
+        "talentStarName": "Talent_Dori",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupId": 6821,
+                "needAvatarPromoteLevel": 1
+            },
+            {
+                "proudSkillGroupId": 6822,
+                "needAvatarPromoteLevel": 4
+            },
+            {
+                "proudSkillGroupId": 6823
+            },
+            {},
+            {}
+        ],
+        "skillDepotAbilityGroup": ""
+    },
+    {
+        "id": 6901,
+        "energySkill": 10695,
+        "skills": [
+            10691,
+            10692,
+            0,
+            0
+        ],
+        "subSkills": [
+            10693,
+            5069010
+        ],
+        "attackModeSkill": 20000,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            691,
+            692,
+            693,
+            694,
+            695,
+            696
+        ],
+        "talentStarName": "Talent_Tighnari",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupId": 6921,
+                "needAvatarPromoteLevel": 1
+            },
+            {
+                "proudSkillGroupId": 6922,
+                "needAvatarPromoteLevel": 4
+            },
+            {
+                "proudSkillGroupId": 6923
+            },
+            {},
+            {}
+        ],
+        "skillDepotAbilityGroup": ""
+    },
+    {
+        "id": 7001,
+        "energySkill": 10705,
+        "skills": [
+            10701,
+            10702,
+            0,
+            0
+        ],
+        "subSkills": [
+            10703,
+            10704,
+            10706,
+            10707,
+            10708,
+            10001,
+            10101,
+            10102,
+            5070010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            701,
+            702,
+            703,
+            704,
+            705,
+            706
+        ],
+        "talentStarName": "Talent_Nilou",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupId": 7021,
+                "needAvatarPromoteLevel": 1
+            },
+            {
+                "proudSkillGroupId": 7022,
+                "needAvatarPromoteLevel": 4
+            },
+            {
+                "proudSkillGroupId": 7023
+            },
+            {},
+            {}
+        ],
+        "skillDepotAbilityGroup": ""
+    },
+    {
+        "id": 7101,
+        "energySkill": 10715,
+        "skills": [
+            10711,
+            10712,
+            0,
+            0
+        ],
+        "subSkills": [
+            10002,
+            10713,
+            5071010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            711,
+            712,
+            713,
+            714,
+            715,
+            716
+        ],
+        "talentStarName": "Talent_Cyno",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupId": 7121,
+                "needAvatarPromoteLevel": 1
+            },
+            {
+                "proudSkillGroupId": 7122,
+                "needAvatarPromoteLevel": 4
+            },
+            {
+                "proudSkillGroupId": 7123
+            },
+            {},
+            {}
+        ],
+        "skillDepotAbilityGroup": ""
+    },
+    {
+        "id": 7201,
+        "energySkill": 10725,
+        "skills": [
+            10721,
+            10722,
+            0,
+            0
+        ],
+        "subSkills": [
+            10002,
+            5072010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            721,
+            722,
+            723,
+            724,
+            725,
+            726
+        ],
+        "talentStarName": "Talent_Candace",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupId": 7221,
+                "needAvatarPromoteLevel": 1
+            },
+            {
+                "proudSkillGroupId": 7222,
+                "needAvatarPromoteLevel": 4
+            },
+            {
+                "proudSkillGroupId": 7223
+            },
+            {},
+            {}
+        ],
+        "skillDepotAbilityGroup": ""
+    },
+    {
+        "id": 7301,
+        "energySkill": 10735,
+        "skills": [
+            10731,
+            10732,
+            0,
+            0
+        ],
+        "subSkills": [
+            10003,
+            5073010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            731,
+            732,
+            733,
+            734,
+            735,
+            736
+        ],
+        "talentStarName": "Talent_Nahida",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupId": 7321,
+                "needAvatarPromoteLevel": 1
+            },
+            {
+                "proudSkillGroupId": 7322,
+                "needAvatarPromoteLevel": 4
+            },
+            {
+                "proudSkillGroupId": 7323
+            },
+            {},
+            {}
+        ],
+        "skillDepotAbilityGroup": ""
+    },
+    {
+        "id": 7401,
+        "energySkill": 10745,
+        "skills": [
+            10741,
+            10742,
+            0,
+            0
+        ],
+        "subSkills": [
+            10001,
+            5074010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            741,
+            742,
+            743,
+            744,
+            745,
+            746
+        ],
+        "talentStarName": "Talent_Layla",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupId": 7421,
+                "needAvatarPromoteLevel": 1
+            },
+            {
+                "proudSkillGroupId": 7422,
+                "needAvatarPromoteLevel": 4
+            },
+            {
+                "proudSkillGroupId": 7423
+            },
+            {},
+            {}
+        ],
+        "skillDepotAbilityGroup": ""
+    },
+    {
+        "id": 7601,
+        "skills": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
             {},
             {}
         ],

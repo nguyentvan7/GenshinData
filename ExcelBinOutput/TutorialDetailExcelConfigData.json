@@ -1059,6 +1059,111 @@
         "descriptTextMapHash": 1402482000
     },
     {
+        "id": 301301,
+        "imageNameList": [
+            "UI_Tutorial_135"
+        ],
+        "descriptTextMapHash": 283631072
+    },
+    {
+        "id": 301401,
+        "imageNameList": [
+            "UI_Tutorial_136"
+        ],
+        "descriptTextMapHash": 2893631720
+    },
+    {
+        "id": 301501,
+        "imageNameList": [
+            "UI_Activity_GravenBOSS_03"
+        ],
+        "descriptTextMapHash": 3953868336
+    },
+    {
+        "id": 301601,
+        "imageNameList": [
+            "UI_Tutorial_137"
+        ],
+        "descriptTextMapHash": 2835459840
+    },
+    {
+        "id": 301701,
+        "imageNameList": [
+            "UI_Tutorial_138"
+        ],
+        "descriptTextMapHash": 1305020408
+    },
+    {
+        "id": 301801,
+        "imageNameList": [
+            "UI_Tutorial_139"
+        ],
+        "descriptTextMapHash": 1087862440
+    },
+    {
+        "id": 301901,
+        "imageNameList": [
+            "UI_Tutorial_140"
+        ],
+        "descriptTextMapHash": 4038460264
+    },
+    {
+        "id": 302001,
+        "imageNameList": [
+            "UI_Tutorial_141"
+        ],
+        "descriptTextMapHash": 3647135000
+    },
+    {
+        "id": 302101,
+        "imageNameList": [
+            "UI_Tutorial_142"
+        ],
+        "descriptTextMapHash": 1749557224
+    },
+    {
+        "id": 302201,
+        "imageNameList": [
+            "UI_Tutorial_143"
+        ],
+        "descriptTextMapHash": 3765378968
+    },
+    {
+        "id": 302301,
+        "imageNameList": [
+            "UI_Tutorial_144"
+        ],
+        "descriptTextMapHash": 3838539920
+    },
+    {
+        "id": 302401,
+        "imageNameList": [
+            "UI_Tutorial_145"
+        ],
+        "descriptTextMapHash": 3571717072
+    },
+    {
+        "id": 302501,
+        "imageNameList": [
+            "UI_Tutorial_146"
+        ],
+        "descriptTextMapHash": 1898450072
+    },
+    {
+        "id": 302601,
+        "imageNameList": [
+            "UI_Tutorial_147"
+        ],
+        "descriptTextMapHash": 2679545112
+    },
+    {
+        "id": 302701,
+        "imageNameList": [
+            "UI_Tutorial_149"
+        ],
+        "descriptTextMapHash": 3465178496
+    },
+    {
         "id": 30000,
         "imageNameList": [],
         "descriptTextMapHash": 1664269776
@@ -1848,6 +1953,48 @@
         "descriptTextMapHash": 4147623200
     },
     {
+        "id": 37901,
+        "imageNameList": [
+            "UI_Tutorial_AranaraMailBox"
+        ],
+        "descriptTextMapHash": 3023443376
+    },
+    {
+        "id": 38001,
+        "imageNameList": [
+            "UI_Tutorial_Overdose_01"
+        ],
+        "descriptTextMapHash": 1043787896
+    },
+    {
+        "id": 38002,
+        "imageNameList": [
+            "UI_Tutorial_Overdose_02"
+        ],
+        "descriptTextMapHash": 4033113160
+    },
+    {
+        "id": 38101,
+        "imageNameList": [
+            "UI_Tutorial_Overgrow_01"
+        ],
+        "descriptTextMapHash": 676183976
+    },
+    {
+        "id": 38102,
+        "imageNameList": [
+            "UI_Tutorial_Overgrow_02"
+        ],
+        "descriptTextMapHash": 3137366728
+    },
+    {
+        "id": 38103,
+        "imageNameList": [
+            "UI_Tutorial_Overgrow_03"
+        ],
+        "descriptTextMapHash": 622094616
+    },
+    {
         "id": 40001,
         "imageNameList": [
             "UI_Tutorial_35"
@@ -2021,6 +2168,41 @@
             "UI_Tutorial_Homeworld_T11"
         ],
         "descriptTextMapHash": 3412310936
+    },
+    {
+        "id": 40026,
+        "imageNameList": [
+            "UI_Tutorial_Homeworld_T12"
+        ],
+        "descriptTextMapHash": 743478952
+    },
+    {
+        "id": 40027,
+        "imageNameList": [
+            "UI_Tutorial_Homeworld_T13"
+        ],
+        "descriptTextMapHash": 41035592
+    },
+    {
+        "id": 40028,
+        "imageNameList": [
+            "UI_Tutorial_Homeworld_T14"
+        ],
+        "descriptTextMapHash": 2380761560
+    },
+    {
+        "id": 40029,
+        "imageNameList": [
+            "UI_Tutorial_Homeworld_T15"
+        ],
+        "descriptTextMapHash": 2561372440
+    },
+    {
+        "id": 40030,
+        "imageNameList": [
+            "UI_Tutorial_Homeworld_T16"
+        ],
+        "descriptTextMapHash": 4124840184
     },
     {
         "id": 41201,
@@ -2252,6 +2434,20 @@
             "UI_Tutorial_Lumen_1c"
         ],
         "descriptTextMapHash": 2859092320
+    },
+    {
+        "id": 70901,
+        "imageNameList": [
+            "UI_Tutorial_Fishing_Accelerate_01"
+        ],
+        "descriptTextMapHash": 381724568
+    },
+    {
+        "id": 70902,
+        "imageNameList": [
+            "UI_Tutorial_Fishing_Accelerate_02"
+        ],
+        "descriptTextMapHash": 2307194304
     },
     {
         "id": 80101,
@@ -3325,6 +3521,468 @@
         "descriptTextMapHash": 67281648
     },
     {
+        "id": 85701,
+        "imageNameList": [
+            "UI_Activity_Gear_01"
+        ],
+        "descriptTextMapHash": 53878016
+    },
+    {
+        "id": 85702,
+        "imageNameList": [
+            "UI_Activity_Gear_02"
+        ],
+        "descriptTextMapHash": 6676608
+    },
+    {
+        "id": 85703,
+        "imageNameList": [
+            "UI_Activity_Gear_03"
+        ],
+        "descriptTextMapHash": 2882447920
+    },
+    {
+        "id": 85704,
+        "imageNameList": [
+            "UI_Activity_Gear_04"
+        ],
+        "descriptTextMapHash": 2036789272
+    },
+    {
+        "id": 85801,
+        "imageNameList": [
+            "UI_Activity_RobotGacha_Tutorail"
+        ],
+        "descriptTextMapHash": 3729820136
+    },
+    {
+        "id": 85901,
+        "imageNameList": [
+            "UI_Activity_Gear_05"
+        ],
+        "descriptTextMapHash": 394557112
+    },
+    {
+        "id": 85902,
+        "imageNameList": [
+            "UI_Activity_Gear_06"
+        ],
+        "descriptTextMapHash": 1748372896
+    },
+    {
+        "id": 86001,
+        "imageNameList": [
+            "UI_Activity_InstableSpray_01"
+        ],
+        "descriptTextMapHash": 3137083016
+    },
+    {
+        "id": 86002,
+        "imageNameList": [
+            "UI_Activity_InstableSpray_02"
+        ],
+        "descriptTextMapHash": 2557655208
+    },
+    {
+        "id": 86003,
+        "imageNameList": [
+            "UI_Activity_InstableSpray_03"
+        ],
+        "descriptTextMapHash": 1461772416
+    },
+    {
+        "id": 86101,
+        "imageNameList": [
+            "UI_Activity_IslandParty_01"
+        ],
+        "descriptTextMapHash": 1047069016
+    },
+    {
+        "id": 86102,
+        "imageNameList": [
+            "UI_Activity_IslandParty_02"
+        ],
+        "descriptTextMapHash": 3624346152
+    },
+    {
+        "id": 86103,
+        "imageNameList": [
+            "UI_Activity_IslandParty_03"
+        ],
+        "descriptTextMapHash": 708843864
+    },
+    {
+        "id": 86104,
+        "imageNameList": [
+            "UI_Activity_IslandParty_04"
+        ],
+        "descriptTextMapHash": 757818880
+    },
+    {
+        "id": 86105,
+        "imageNameList": [
+            "UI_Activity_IslandParty_05"
+        ],
+        "descriptTextMapHash": 3456560128
+    },
+    {
+        "id": 86106,
+        "imageNameList": [
+            "UI_Activity_IslandParty_06"
+        ],
+        "descriptTextMapHash": 1404491080
+    },
+    {
+        "id": 86107,
+        "imageNameList": [
+            "UI_Activity_IslandParty_07"
+        ],
+        "descriptTextMapHash": 876100024
+    },
+    {
+        "id": 86108,
+        "imageNameList": [
+            "UI_Activity_IslandParty_08"
+        ],
+        "descriptTextMapHash": 1516298296
+    },
+    {
+        "id": 86109,
+        "imageNameList": [
+            "UI_Activity_IslandParty_09"
+        ],
+        "descriptTextMapHash": 1971015104
+    },
+    {
+        "id": 86110,
+        "imageNameList": [
+            "UI_Activity_IslandParty_10"
+        ],
+        "descriptTextMapHash": 1953521352
+    },
+    {
+        "id": 86201,
+        "imageNameList": [
+            "UI_Activity_SummerTimeV2_01"
+        ],
+        "descriptTextMapHash": 3097504696
+    },
+    {
+        "id": 86202,
+        "imageNameList": [
+            "UI_Activity_SummerTimeV2_02"
+        ],
+        "descriptTextMapHash": 1289965216
+    },
+    {
+        "id": 86301,
+        "imageNameList": [
+            "UI_Activity_SummerTimeV2_03"
+        ],
+        "descriptTextMapHash": 950904704
+    },
+    {
+        "id": 86401,
+        "imageNameList": [
+            "UI_Activity_SummerTimeV2_04"
+        ],
+        "descriptTextMapHash": 2101371704
+    },
+    {
+        "id": 86402,
+        "imageNameList": [
+            "UI_Activity_SummerTimeV2_05"
+        ],
+        "descriptTextMapHash": 4191872144
+    },
+    {
+        "id": 86501,
+        "imageNameList": [
+            "UI_Activity_SummerTimeV2_06"
+        ],
+        "descriptTextMapHash": 3016466848
+    },
+    {
+        "id": 86601,
+        "imageNameList": [
+            "UI_Activity_SummerTimeV2_07"
+        ],
+        "descriptTextMapHash": 3521604024
+    },
+    {
+        "id": 86602,
+        "imageNameList": [
+            "UI_Activity_SummerTimeV2_08"
+        ],
+        "descriptTextMapHash": 2861592672
+    },
+    {
+        "id": 86701,
+        "imageNameList": [
+            "UI_Activity_SummerTimeV2_09"
+        ],
+        "descriptTextMapHash": 109606880
+    },
+    {
+        "id": 86801,
+        "imageNameList": [
+            "UI_Activity_SummerTimeV2_10"
+        ],
+        "descriptTextMapHash": 3516172160
+    },
+    {
+        "id": 86901,
+        "imageNameList": [
+            "UI_Activity_Muqadas_Tutorail_1"
+        ],
+        "descriptTextMapHash": 560868960
+    },
+    {
+        "id": 86902,
+        "imageNameList": [
+            "UI_Activity_Muqadas_Tutorail_2"
+        ],
+        "descriptTextMapHash": 739732184
+    },
+    {
+        "id": 86903,
+        "imageNameList": [
+            "UI_Activity_Muqadas_Tutorail_3"
+        ],
+        "descriptTextMapHash": 477937496
+    },
+    {
+        "id": 87701,
+        "imageNameList": [
+            "UI_Activity_VintagePresent_01"
+        ],
+        "descriptTextMapHash": 2914025160
+    },
+    {
+        "id": 87801,
+        "imageNameList": [
+            "UI_Activity_VintagePresent_02"
+        ],
+        "descriptTextMapHash": 2075295624
+    },
+    {
+        "id": 87802,
+        "imageNameList": [
+            "UI_Activity_VintagePresent_03"
+        ],
+        "descriptTextMapHash": 3202615696
+    },
+    {
+        "id": 87901,
+        "imageNameList": [
+            "UI_Activity_VintageChallenge_01"
+        ],
+        "descriptTextMapHash": 1350721544
+    },
+    {
+        "id": 87902,
+        "imageNameList": [
+            "UI_Activity_VintageChallenge_02"
+        ],
+        "descriptTextMapHash": 1907249312
+    },
+    {
+        "id": 88001,
+        "imageNameList": [
+            "UI_Activity_VintageHunting_01"
+        ],
+        "descriptTextMapHash": 2024919672
+    },
+    {
+        "id": 88002,
+        "imageNameList": [
+            "UI_Activity_VintageHunting_02"
+        ],
+        "descriptTextMapHash": 616763552
+    },
+    {
+        "id": 88101,
+        "imageNameList": [
+            "UI_Activity_VintageHunting_03"
+        ],
+        "descriptTextMapHash": 3042481896
+    },
+    {
+        "id": 88102,
+        "imageNameList": [
+            "UI_Activity_VintageHunting_04"
+        ],
+        "descriptTextMapHash": 3807328096
+    },
+    {
+        "id": 88103,
+        "imageNameList": [
+            "UI_Activity_VintageHunting_05"
+        ],
+        "descriptTextMapHash": 1657510528
+    },
+    {
+        "id": 88201,
+        "imageNameList": [
+            "UI_Activity_VintageHunting_07"
+        ],
+        "descriptTextMapHash": 3486730760
+    },
+    {
+        "id": 88202,
+        "imageNameList": [
+            "UI_Activity_VintageHunting_06"
+        ],
+        "descriptTextMapHash": 1833945856
+    },
+    {
+        "id": 88801,
+        "imageNameList": [
+            "UI_Tutorial_WindField_01"
+        ],
+        "descriptTextMapHash": 1936979640
+    },
+    {
+        "id": 88802,
+        "imageNameList": [
+            "UI_Tutorial_WindField_02"
+        ],
+        "descriptTextMapHash": 1165757296
+    },
+    {
+        "id": 88803,
+        "imageNameList": [
+            "UI_Tutorial_WindField_03"
+        ],
+        "descriptTextMapHash": 2241297312
+    },
+    {
+        "id": 88901,
+        "imageNameList": [
+            "UI_Tutorial_WindField_04"
+        ],
+        "descriptTextMapHash": 3576297336
+    },
+    {
+        "id": 88902,
+        "imageNameList": [
+            "UI_Tutorial_WindField_05"
+        ],
+        "descriptTextMapHash": 2279088840
+    },
+    {
+        "id": 88903,
+        "imageNameList": [
+            "UI_Tutorial_WindField_06"
+        ],
+        "descriptTextMapHash": 3772701112
+    },
+    {
+        "id": 88904,
+        "imageNameList": [
+            "UI_Tutorial_WindField_07"
+        ],
+        "descriptTextMapHash": 1647594800
+    },
+    {
+        "id": 88905,
+        "imageNameList": [
+            "UI_Tutorial_WindField_08"
+        ],
+        "descriptTextMapHash": 2690597936
+    },
+    {
+        "id": 89401,
+        "imageNameList": [
+            "UI_Activity_VintageMarket_01"
+        ],
+        "descriptTextMapHash": 2016493880
+    },
+    {
+        "id": 89501,
+        "imageNameList": [
+            "UI_Activity_VintageMarket_02"
+        ],
+        "descriptTextMapHash": 2870129024
+    },
+    {
+        "id": 89502,
+        "imageNameList": [
+            "UI_Activity_VintageMarket_03"
+        ],
+        "descriptTextMapHash": 4212658544
+    },
+    {
+        "id": 89503,
+        "imageNameList": [
+            "UI_Activity_VintageMarket_04"
+        ],
+        "descriptTextMapHash": 2057501296
+    },
+    {
+        "id": 89504,
+        "imageNameList": [
+            "UI_Activity_VintageMarket_05"
+        ],
+        "descriptTextMapHash": 3662912512
+    },
+    {
+        "id": 89601,
+        "imageNameList": [
+            "UI_Activity_VintageMarket_06"
+        ],
+        "descriptTextMapHash": 2350484712
+    },
+    {
+        "id": 89602,
+        "imageNameList": [
+            "UI_Activity_VintageMarket_07"
+        ],
+        "descriptTextMapHash": 3735930000
+    },
+    {
+        "id": 89701,
+        "imageNameList": [
+            "UI_Activity_RockBoardExplore_01"
+        ],
+        "descriptTextMapHash": 977831200
+    },
+    {
+        "id": 89702,
+        "imageNameList": [
+            "UI_Activity_RockBoardExplore_02"
+        ],
+        "descriptTextMapHash": 928983984
+    },
+    {
+        "id": 89801,
+        "imageNameList": [
+            "UI_Activity_PhotoGraph_01"
+        ],
+        "descriptTextMapHash": 1179007696
+    },
+    {
+        "id": 89802,
+        "imageNameList": [
+            "UI_Activity_PhotoGraph_02"
+        ],
+        "descriptTextMapHash": 76173832
+    },
+    {
+        "id": 89803,
+        "imageNameList": [
+            "UI_Activity_PhotoGraph_03"
+        ],
+        "descriptTextMapHash": 3261380768
+    },
+    {
+        "id": 89804,
+        "imageNameList": [
+            "UI_Activity_PhotoGraph_04"
+        ],
+        "descriptTextMapHash": 75012344
+    },
+    {
         "id": 90001,
         "imageNameList": [
             "UI_Activity_Aster_01"
@@ -3979,6 +4637,13 @@
         "descriptTextMapHash": 3767682712
     },
     {
+        "id": 201301,
+        "imageNameList": [
+            "UI_Positioner_Alpha"
+        ],
+        "descriptTextMapHash": 512332440
+    },
+    {
         "id": 103201,
         "imageNameList": [
             "UI_Tutorial_106a"
@@ -4448,6 +5113,55 @@
         "descriptTextMapHash": 3151182144
     },
     {
+        "id": 113101,
+        "imageNameList": [
+            "UI_Activity_Drum_01"
+        ],
+        "descriptTextMapHash": 1020253576
+    },
+    {
+        "id": 113102,
+        "imageNameList": [
+            "UI_Activity_Drum_02"
+        ],
+        "descriptTextMapHash": 3176122016
+    },
+    {
+        "id": 113201,
+        "imageNameList": [
+            "UI_Activity_Drum_03"
+        ],
+        "descriptTextMapHash": 2286602624
+    },
+    {
+        "id": 113202,
+        "imageNameList": [
+            "UI_Activity_Drum_04"
+        ],
+        "descriptTextMapHash": 3056150704
+    },
+    {
+        "id": 113301,
+        "imageNameList": [
+            "UI_Activity_Drum_05"
+        ],
+        "descriptTextMapHash": 1909066912
+    },
+    {
+        "id": 113401,
+        "imageNameList": [
+            "UI_Activity_Drum_06"
+        ],
+        "descriptTextMapHash": 2761071232
+    },
+    {
+        "id": 113501,
+        "imageNameList": [
+            "UI_Activity_Drum_07"
+        ],
+        "descriptTextMapHash": 4060490872
+    },
+    {
         "id": 113601,
         "imageNameList": [
             "UI_Activity_Spice_01"
@@ -4481,5 +5195,1447 @@
             "UI_Activity_Spice_05"
         ],
         "descriptTextMapHash": 494706848
+    },
+    {
+        "id": 113701,
+        "imageNameList": [
+            "UI_Activity_Drum_03"
+        ],
+        "descriptTextMapHash": 1165087768
+    },
+    {
+        "id": 113702,
+        "imageNameList": [
+            "UI_Activity_Music_Ugc_Easy_02"
+        ],
+        "descriptTextMapHash": 1305625040
+    },
+    {
+        "id": 113703,
+        "imageNameList": [
+            "UI_Activity_Music_Ugc_Easy_03"
+        ],
+        "descriptTextMapHash": 1808845912
+    },
+    {
+        "id": 113801,
+        "imageNameList": [
+            "UI_Activity_Drum_04"
+        ],
+        "descriptTextMapHash": 418503480
+    },
+    {
+        "id": 113802,
+        "imageNameList": [
+            "UI_Activity_Music_Ugc_Complex_02"
+        ],
+        "descriptTextMapHash": 1076182512
+    },
+    {
+        "id": 113803,
+        "imageNameList": [
+            "UI_Activity_Music_Ugc_Complex_03"
+        ],
+        "descriptTextMapHash": 1956627656
+    },
+    {
+        "id": 113901,
+        "imageNameList": [
+            "UI_Activity_Drum_Setting_01"
+        ],
+        "descriptTextMapHash": 3169675328
+    },
+    {
+        "id": 113902,
+        "imageNameList": [
+            "UI_Activity_Drum_Setting_01"
+        ],
+        "descriptTextMapHash": 15157568
+    },
+    {
+        "id": 113903,
+        "imageNameList": [
+            "UI_Activity_Drum_Setting_01"
+        ],
+        "descriptTextMapHash": 680600936
+    },
+    {
+        "id": 114001,
+        "imageNameList": [
+            "UI_Activity_Drum_08"
+        ],
+        "descriptTextMapHash": 2617482664
+    },
+    {
+        "id": 114101,
+        "imageNameList": [
+            "UI_Activity_Drum_09"
+        ],
+        "descriptTextMapHash": 1182713000
+    },
+    {
+        "id": 114201,
+        "imageNameList": [
+            "UI_Activity_Drum_10"
+        ],
+        "descriptTextMapHash": 3671007408
+    },
+    {
+        "id": 110911,
+        "imageNameList": [
+            "UI_Homeworld_GroupSearchGame"
+        ],
+        "descriptTextMapHash": 1175846920
+    },
+    {
+        "id": 110912,
+        "imageNameList": [
+            "UI_Homeworld_GroupSearchScore"
+        ],
+        "descriptTextMapHash": 3694876872
+    },
+    {
+        "id": 114401,
+        "imageNameList": [
+            "UI_Activity_RogueDiary_01"
+        ],
+        "descriptTextMapHash": 899646648
+    },
+    {
+        "id": 114402,
+        "imageNameList": [
+            "UI_Activity_RogueDiary_02"
+        ],
+        "descriptTextMapHash": 3503553464
+    },
+    {
+        "id": 114403,
+        "imageNameList": [
+            "UI_Activity_RogueDiary_03"
+        ],
+        "descriptTextMapHash": 2449969672
+    },
+    {
+        "id": 114404,
+        "imageNameList": [
+            "UI_Activity_RogueDiary_04"
+        ],
+        "descriptTextMapHash": 1359012192
+    },
+    {
+        "id": 114501,
+        "imageNameList": [
+            "UI_Activity_RogueDiary_05"
+        ],
+        "descriptTextMapHash": 426221296
+    },
+    {
+        "id": 114601,
+        "imageNameList": [
+            "UI_Activity_RogueDiary_06"
+        ],
+        "descriptTextMapHash": 1924401992
+    },
+    {
+        "id": 114701,
+        "imageNameList": [
+            "UI_Activity_RogueDiary_07"
+        ],
+        "descriptTextMapHash": 924184408
+    },
+    {
+        "id": 114901,
+        "imageNameList": [
+            "UI_Activity_TheChasmChallenge_01"
+        ],
+        "descriptTextMapHash": 3375128248
+    },
+    {
+        "id": 114902,
+        "imageNameList": [
+            "UI_Activity_TheChasmChallenge_02"
+        ],
+        "descriptTextMapHash": 2052292960
+    },
+    {
+        "id": 114903,
+        "imageNameList": [
+            "UI_Activity_TheChasmChallenge_03"
+        ],
+        "descriptTextMapHash": 2112388200
+    },
+    {
+        "id": 114904,
+        "imageNameList": [
+            "UI_Activity_TheChasmChallenge_04"
+        ],
+        "descriptTextMapHash": 1343608752
+    },
+    {
+        "id": 114905,
+        "imageNameList": [
+            "UI_Activity_TheChasmChallenge_05"
+        ],
+        "descriptTextMapHash": 3533707160
+    },
+    {
+        "id": 114906,
+        "imageNameList": [
+            "UI_Activity_TheChasmChallenge_06"
+        ],
+        "descriptTextMapHash": 2191759088
+    },
+    {
+        "id": 114907,
+        "imageNameList": [
+            "UI_Activity_TheChasmChallenge_07"
+        ],
+        "descriptTextMapHash": 4239509888
+    },
+    {
+        "id": 114908,
+        "imageNameList": [
+            "UI_Activity_TheChasmChallenge_08"
+        ],
+        "descriptTextMapHash": 1811824264
+    },
+    {
+        "id": 115901,
+        "imageNameList": [
+            "UI_Activity_RogueDiary_08"
+        ],
+        "descriptTextMapHash": 4141323376
+    },
+    {
+        "id": 115902,
+        "imageNameList": [
+            "UI_Activity_RogueDiary_09"
+        ],
+        "descriptTextMapHash": 488431288
+    },
+    {
+        "id": 115903,
+        "imageNameList": [
+            "UI_Activity_RogueDiary_10"
+        ],
+        "descriptTextMapHash": 103867840
+    },
+    {
+        "id": 115904,
+        "imageNameList": [
+            "UI_Activity_RogueDiary_11"
+        ],
+        "descriptTextMapHash": 2384714304
+    },
+    {
+        "id": 116001,
+        "imageNameList": [
+            "UI_Activity_RogueDiary_12"
+        ],
+        "descriptTextMapHash": 795328904
+    },
+    {
+        "id": 116501,
+        "imageNameList": [
+            "UI_InsectModel_Img"
+        ],
+        "descriptTextMapHash": 974230136
+    },
+    {
+        "id": 116701,
+        "imageNameList": [
+            "UI_DITutorial_CloudPlatform01"
+        ],
+        "descriptTextMapHash": 2651026632
+    },
+    {
+        "id": 116702,
+        "imageNameList": [
+            "UI_DITutorial_CloudPlatform02"
+        ],
+        "descriptTextMapHash": 4135367048
+    },
+    {
+        "id": 116703,
+        "imageNameList": [
+            "UI_DITutorial_CloudPlatform03"
+        ],
+        "descriptTextMapHash": 3155915576
+    },
+    {
+        "id": 116801,
+        "imageNameList": [
+            "UI_PocketWatch_Alpha"
+        ],
+        "descriptTextMapHash": 2162918688
+    },
+    {
+        "id": 116901,
+        "imageNameList": [
+            "UI_DITutorial_ConstellationMachine01"
+        ],
+        "descriptTextMapHash": 2569783448
+    },
+    {
+        "id": 116902,
+        "imageNameList": [
+            "UI_DITutorial_ConstellationMachine02"
+        ],
+        "descriptTextMapHash": 1831861256
+    },
+    {
+        "id": 117001,
+        "imageNameList": [
+            "UI_DITutorial_StarProjecter01"
+        ],
+        "descriptTextMapHash": 1962531704
+    },
+    {
+        "id": 117002,
+        "imageNameList": [
+            "UI_DITutorial_StarProjecter02"
+        ],
+        "descriptTextMapHash": 3816526584
+    },
+    {
+        "id": 117003,
+        "imageNameList": [
+            "UI_DITutorial_StarProjecter03"
+        ],
+        "descriptTextMapHash": 2532362952
+    },
+    {
+        "id": 117101,
+        "imageNameList": [
+            "UI_Activity_Monaroom01"
+        ],
+        "descriptTextMapHash": 4136208832
+    },
+    {
+        "id": 117102,
+        "imageNameList": [
+            "UI_Activity_Monaroom02"
+        ],
+        "descriptTextMapHash": 561200064
+    },
+    {
+        "id": 117201,
+        "imageNameList": [
+            "UI_Activity_Monaroom03"
+        ],
+        "descriptTextMapHash": 440775904
+    },
+    {
+        "id": 117202,
+        "imageNameList": [
+            "UI_Activity_Monaroom04"
+        ],
+        "descriptTextMapHash": 150776512
+    },
+    {
+        "id": 117203,
+        "imageNameList": [
+            "UI_Activity_Monaroom05"
+        ],
+        "descriptTextMapHash": 119108096
+    },
+    {
+        "id": 117301,
+        "imageNameList": [
+            "UI_Activity_SummerTimeV2_11"
+        ],
+        "descriptTextMapHash": 9292704
+    },
+    {
+        "id": 117302,
+        "imageNameList": [
+            "UI_Activity_SummerTimeV2_12"
+        ],
+        "descriptTextMapHash": 2969484760
+    },
+    {
+        "id": 117303,
+        "imageNameList": [
+            "UI_Activity_SummerTimeV2_13"
+        ],
+        "descriptTextMapHash": 1893804488
+    },
+    {
+        "id": 117318,
+        "imageNameList": [
+            "UI_Activity_SummerTimeV2_14"
+        ],
+        "descriptTextMapHash": 423268656
+    },
+    {
+        "id": 117320,
+        "imageNameList": [
+            "UI_Activity_SummerTimeV2_15"
+        ],
+        "descriptTextMapHash": 410677240
+    },
+    {
+        "id": 117304,
+        "imageNameList": [
+            "UI_DITutorial_CrowThearte01"
+        ],
+        "descriptTextMapHash": 4223842104
+    },
+    {
+        "id": 117305,
+        "imageNameList": [
+            "UI_DITutorial_CrowThearte02"
+        ],
+        "descriptTextMapHash": 172263856
+    },
+    {
+        "id": 117306,
+        "imageNameList": [
+            "UI_DITutorial_CrowThearte03"
+        ],
+        "descriptTextMapHash": 253135624
+    },
+    {
+        "id": 117307,
+        "imageNameList": [
+            "UI_DITutorial_CrowThearte04"
+        ],
+        "descriptTextMapHash": 3123715200
+    },
+    {
+        "id": 117308,
+        "imageNameList": [
+            "UI_DITutorial_Crowlmes01"
+        ],
+        "descriptTextMapHash": 998350264
+    },
+    {
+        "id": 117309,
+        "imageNameList": [
+            "UI_DITutorial_Crowlmes02"
+        ],
+        "descriptTextMapHash": 1203983624
+    },
+    {
+        "id": 117310,
+        "imageNameList": [
+            "UI_DITutorial_Crowlmes03"
+        ],
+        "descriptTextMapHash": 74835656
+    },
+    {
+        "id": 117311,
+        "imageNameList": [
+            "UI_DITutorial_Crowlmes04"
+        ],
+        "descriptTextMapHash": 1392982424
+    },
+    {
+        "id": 117312,
+        "imageNameList": [
+            "UI_DITutorial_Croweye01"
+        ],
+        "descriptTextMapHash": 88747296
+    },
+    {
+        "id": 117313,
+        "imageNameList": [
+            "UI_DITutorial_Croweye02"
+        ],
+        "descriptTextMapHash": 995350416
+    },
+    {
+        "id": 117314,
+        "imageNameList": [
+            "UI_DITutorial_Croweye03"
+        ],
+        "descriptTextMapHash": 3415710680
+    },
+    {
+        "id": 117315,
+        "imageNameList": [
+            "UI_DITutorial_Croweye04"
+        ],
+        "descriptTextMapHash": 1820615720
+    },
+    {
+        "id": 117316,
+        "imageNameList": [
+            "UI_DITutorial_Croweye05"
+        ],
+        "descriptTextMapHash": 489967560
+    },
+    {
+        "id": 117317,
+        "imageNameList": [
+            "UI_DITutorial_Croweye06"
+        ],
+        "descriptTextMapHash": 3557516704
+    },
+    {
+        "id": 117319,
+        "imageNameList": [
+            "UI_DITutorial_Croweye07"
+        ],
+        "descriptTextMapHash": 294328208
+    },
+    {
+        "id": 117701,
+        "imageNameList": [
+            "UI_DITutorial_ChangeMountain01"
+        ],
+        "descriptTextMapHash": 1506149760
+    },
+    {
+        "id": 117702,
+        "imageNameList": [
+            "UI_DITutorial_ChangeMountain02"
+        ],
+        "descriptTextMapHash": 3887225080
+    },
+    {
+        "id": 117801,
+        "imageNameList": [
+            "UI_DITutorial_Fire01"
+        ],
+        "descriptTextMapHash": 4200840008
+    },
+    {
+        "id": 117802,
+        "imageNameList": [
+            "UI_DITutorial_Fire02"
+        ],
+        "descriptTextMapHash": 2546100080
+    },
+    {
+        "id": 117803,
+        "imageNameList": [
+            "UI_DITutorial_Fire03"
+        ],
+        "descriptTextMapHash": 2962632488
+    },
+    {
+        "id": 117804,
+        "imageNameList": [
+            "UI_DITutorial_Fire04"
+        ],
+        "descriptTextMapHash": 1321293544
+    },
+    {
+        "id": 117901,
+        "imageNameList": [
+            "UI_DITutorial_Serve01"
+        ],
+        "descriptTextMapHash": 171552952
+    },
+    {
+        "id": 117902,
+        "imageNameList": [
+            "UI_DITutorial_Serve02"
+        ],
+        "descriptTextMapHash": 3780805984
+    },
+    {
+        "id": 118101,
+        "imageNameList": [
+            "UI_DITutorial_TransferFlower01"
+        ],
+        "descriptTextMapHash": 4255949680
+    },
+    {
+        "id": 118102,
+        "imageNameList": [
+            "UI_DITutorial_TransferFlower02"
+        ],
+        "descriptTextMapHash": 3285548384
+    },
+    {
+        "id": 118201,
+        "imageNameList": [
+            "UI_DITutorial_NoteSlate01"
+        ],
+        "descriptTextMapHash": 228101160
+    },
+    {
+        "id": 118202,
+        "imageNameList": [
+            "UI_DITutorial_NoteSlate02"
+        ],
+        "descriptTextMapHash": 535776712
+    },
+    {
+        "id": 118301,
+        "imageNameList": [
+            "UI_SummerTimeV2Map01"
+        ],
+        "descriptTextMapHash": 2645686024
+    },
+    {
+        "id": 118401,
+        "imageNameList": [
+            "UI_Activity_TreasureSeelie_01"
+        ],
+        "descriptTextMapHash": 2009615376
+    },
+    {
+        "id": 118402,
+        "imageNameList": [
+            "UI_Activity_TreasureSeelie_02"
+        ],
+        "descriptTextMapHash": 1818729832
+    },
+    {
+        "id": 118403,
+        "imageNameList": [
+            "UI_Activity_TreasureSeelie_03"
+        ],
+        "descriptTextMapHash": 1001592496
+    },
+    {
+        "id": 118404,
+        "imageNameList": [
+            "UI_Activity_TreasureSeelie_04"
+        ],
+        "descriptTextMapHash": 2378482000
+    },
+    {
+        "id": 118405,
+        "imageNameList": [
+            "UI_Activity_TreasureSeelie_05"
+        ],
+        "descriptTextMapHash": 1924828024
+    },
+    {
+        "id": 118501,
+        "imageNameList": [
+            "UI_DITutorial_CoreDrum01"
+        ],
+        "descriptTextMapHash": 1747693224
+    },
+    {
+        "id": 118502,
+        "imageNameList": [
+            "UI_DITutorial_CoreDrum02"
+        ],
+        "descriptTextMapHash": 873403968
+    },
+    {
+        "id": 119301,
+        "imageNameList": [
+            "UI_GrandTheatre_Alpha"
+        ],
+        "descriptTextMapHash": 2738927336
+    },
+    {
+        "id": 120101,
+        "imageNameList": [
+            "UI_SumeruTutorial_SumeruDreamPiece_01"
+        ],
+        "descriptTextMapHash": 1968432536
+    },
+    {
+        "id": 120401,
+        "imageNameList": [
+            "UI_SumeruTutorial_SumeruVineBall_01"
+        ],
+        "descriptTextMapHash": 1964403432
+    },
+    {
+        "id": 120501,
+        "imageNameList": [
+            "UI_SumeruTutorial_SumeruPortal_01"
+        ],
+        "descriptTextMapHash": 284456536
+    },
+    {
+        "id": 120601,
+        "imageNameList": [
+            "UI_SumeruTutorial_SumeruDeleteFlower_01"
+        ],
+        "descriptTextMapHash": 1595298960
+    },
+    {
+        "id": 120701,
+        "imageNameList": [
+            "UI_SumeruTutorial_SumeruStrongSeed_01"
+        ],
+        "descriptTextMapHash": 2582461368
+    },
+    {
+        "id": 120801,
+        "imageNameList": [
+            "UI_SumeruTutorial_VarunaDevice_01"
+        ],
+        "descriptTextMapHash": 1931150568
+    },
+    {
+        "id": 120901,
+        "imageNameList": [
+            "UI_SumeruTutorial_SumeruShattered_01"
+        ],
+        "descriptTextMapHash": 3679936816
+    },
+    {
+        "id": 121001,
+        "imageNameList": [
+            "UI_NPCPic_Woman_Alpha"
+        ],
+        "descriptTextMapHash": 1288030008
+    },
+    {
+        "id": 121101,
+        "imageNameList": [
+            "UI_NPCPic_Man_Alpha"
+        ],
+        "descriptTextMapHash": 1240237912
+    },
+    {
+        "id": 121201,
+        "imageNameList": [
+            "UI_Activity_GravenCarve_01"
+        ],
+        "descriptTextMapHash": 683096600
+    },
+    {
+        "id": 121202,
+        "imageNameList": [
+            "UI_Activity_GravenCarve_02"
+        ],
+        "descriptTextMapHash": 1240549240
+    },
+    {
+        "id": 121203,
+        "imageNameList": [
+            "UI_Activity_GravenCarve_03"
+        ],
+        "descriptTextMapHash": 1908732304
+    },
+    {
+        "id": 121204,
+        "imageNameList": [
+            "UI_Activity_GravenCarve_04"
+        ],
+        "descriptTextMapHash": 1735208920
+    },
+    {
+        "id": 121301,
+        "imageNameList": [
+            "UI_Activity_GravenCamp_01"
+        ],
+        "descriptTextMapHash": 362336600
+    },
+    {
+        "id": 121401,
+        "imageNameList": [
+            "UI_Activity_GravenBOSS_01"
+        ],
+        "descriptTextMapHash": 1239156856
+    },
+    {
+        "id": 121402,
+        "imageNameList": [
+            "UI_Activity_GravenBOSS_02"
+        ],
+        "descriptTextMapHash": 2926153720
+    },
+    {
+        "id": 121403,
+        "imageNameList": [
+            "UI_Activity_GravenBOSS_03"
+        ],
+        "descriptTextMapHash": 763222728
+    },
+    {
+        "id": 121404,
+        "imageNameList": [
+            "UI_Activity_GravenBOSS_04"
+        ],
+        "descriptTextMapHash": 3599301200
+    },
+    {
+        "id": 121501,
+        "imageNameList": [
+            "UI_Activity_GravenPhoto_01"
+        ],
+        "descriptTextMapHash": 2086556256
+    },
+    {
+        "id": 121601,
+        "imageNameList": [
+            "UI_Activity_GravenRace_01"
+        ],
+        "descriptTextMapHash": 3512696992
+    },
+    {
+        "id": 121602,
+        "imageNameList": [
+            "UI_Activity_GravenRace_02"
+        ],
+        "descriptTextMapHash": 4011826352
+    },
+    {
+        "id": 121701,
+        "imageNameList": [
+            "UI_Tutorial_Vanasara_01"
+        ],
+        "descriptTextMapHash": 2125139456
+    },
+    {
+        "id": 121801,
+        "imageNameList": [
+            "UI_SumeruTutorial_SumeruShattered_01"
+        ],
+        "descriptTextMapHash": 4177292264
+    },
+    {
+        "id": 121901,
+        "imageNameList": [
+            "UI_SumeruTutorial_SumeruVineBall_01"
+        ],
+        "descriptTextMapHash": 286579848
+    },
+    {
+        "id": 122001,
+        "imageNameList": [
+            "UI_SumeruTutorial_SumeruPortal_01"
+        ],
+        "descriptTextMapHash": 2768749432
+    },
+    {
+        "id": 122101,
+        "imageNameList": [
+            "UI_SumeruTutorial_SumeruDeleteFlower_01"
+        ],
+        "descriptTextMapHash": 3828498984
+    },
+    {
+        "id": 122201,
+        "imageNameList": [
+            "UI_SumeruTutorial_SumeruStrongSeed_01"
+        ],
+        "descriptTextMapHash": 3244724120
+    },
+    {
+        "id": 122301,
+        "imageNameList": [
+            "UI_SumeruTutorial_VarunaDevice_01"
+        ],
+        "descriptTextMapHash": 1718494232
+    },
+    {
+        "id": 122401,
+        "imageNameList": [
+            "UI_SumeruTutorial_SumeruDreamPiece_01"
+        ],
+        "descriptTextMapHash": 3514781200
+    },
+    {
+        "id": 122501,
+        "imageNameList": [
+            "UI_SumeruTutorial_Dreamdoor_01"
+        ],
+        "descriptTextMapHash": 3461464824
+    },
+    {
+        "id": 122502,
+        "imageNameList": [
+            "UI_SumeruTutorial_Dreamdoor_02"
+        ],
+        "descriptTextMapHash": 809407688
+    },
+    {
+        "id": 122503,
+        "imageNameList": [
+            "UI_SumeruTutorial_Dreamdoor_03"
+        ],
+        "descriptTextMapHash": 2411218568
+    },
+    {
+        "id": 122601,
+        "imageNameList": [
+            "UI_SumeruTutorial_DendroSeed_01"
+        ],
+        "descriptTextMapHash": 3417114768
+    },
+    {
+        "id": 122602,
+        "imageNameList": [
+            "UI_SumeruTutorial_DendroSeed_02"
+        ],
+        "descriptTextMapHash": 3035203800
+    },
+    {
+        "id": 122701,
+        "imageNameList": [
+            "UI_SumeruTutorial_Manara_01"
+        ],
+        "descriptTextMapHash": 3919440
+    },
+    {
+        "id": 122702,
+        "imageNameList": [
+            "UI_SumeruTutorial_Manara_02"
+        ],
+        "descriptTextMapHash": 2258203360
+    },
+    {
+        "id": 122703,
+        "imageNameList": [
+            "UI_SumeruTutorial_Manara_03"
+        ],
+        "descriptTextMapHash": 2905465240
+    },
+    {
+        "id": 122704,
+        "imageNameList": [
+            "UI_SumeruTutorial_Manara_04"
+        ],
+        "descriptTextMapHash": 1115259920
+    },
+    {
+        "id": 122705,
+        "imageNameList": [
+            "UI_SumeruTutorial_Manara_05"
+        ],
+        "descriptTextMapHash": 4688960
+    },
+    {
+        "id": 122801,
+        "imageNameList": [
+            "UI_SumeruTutorial_ManaraDanger_01"
+        ],
+        "descriptTextMapHash": 3561422776
+    },
+    {
+        "id": 122802,
+        "imageNameList": [
+            "UI_SumeruTutorial_ManaraDanger_02"
+        ],
+        "descriptTextMapHash": 470758416
+    },
+    {
+        "id": 122901,
+        "imageNameList": [
+            "UI_SumeruTutorial_Observatory_01"
+        ],
+        "descriptTextMapHash": 2131864312
+    },
+    {
+        "id": 123001,
+        "imageNameList": [
+            "UI_SumeruTutorial_Titan_01"
+        ],
+        "descriptTextMapHash": 2871766264
+    },
+    {
+        "id": 123002,
+        "imageNameList": [
+            "UI_SumeruTutorial_Titan_02"
+        ],
+        "descriptTextMapHash": 3381826448
+    },
+    {
+        "id": 123101,
+        "imageNameList": [
+            "UI_SumeruTutorial_GrapplingHook_01"
+        ],
+        "descriptTextMapHash": 3949546112
+    },
+    {
+        "id": 123201,
+        "imageNameList": [
+            "UI_SumeruTutorial_GrapplingHookFlower_01"
+        ],
+        "descriptTextMapHash": 2017198752
+    },
+    {
+        "id": 123301,
+        "imageNameList": [
+            "UI_SumeruTutorial_JumpMushroom_01"
+        ],
+        "descriptTextMapHash": 3437446424
+    },
+    {
+        "id": 123302,
+        "imageNameList": [
+            "UI_SumeruTutorial_JumpMushroom_02"
+        ],
+        "descriptTextMapHash": 991557144
+    },
+    {
+        "id": 123401,
+        "imageNameList": [
+            "UI_SumeruTutorial_Invisible_01"
+        ],
+        "descriptTextMapHash": 919499592
+    },
+    {
+        "id": 123501,
+        "imageNameList": [
+            "UI_SumeruTutorial_Visualizationplant_01"
+        ],
+        "descriptTextMapHash": 145725200
+    },
+    {
+        "id": 123601,
+        "imageNameList": [
+            "UI_SumeruTutorial_GrassSealStone_01"
+        ],
+        "descriptTextMapHash": 2094003048
+    },
+    {
+        "id": 123701,
+        "imageNameList": [
+            "UI_SumeruTutorial_Command_01"
+        ],
+        "descriptTextMapHash": 344074008
+    },
+    {
+        "id": 123801,
+        "imageNameList": [
+            "UI_SumeruTutorial_Command_02"
+        ],
+        "descriptTextMapHash": 3884459728
+    },
+    {
+        "id": 123901,
+        "imageNameList": [
+            "UI_SumeruTutorial_Command_03"
+        ],
+        "descriptTextMapHash": 236690408
+    },
+    {
+        "id": 124001,
+        "imageNameList": [
+            "UI_GardenTutorial_01"
+        ],
+        "descriptTextMapHash": 3434457040
+    },
+    {
+        "id": 124101,
+        "imageNameList": [
+            "UI_SumeruTutorial_StarShroom_01"
+        ],
+        "descriptTextMapHash": 3869856344
+    },
+    {
+        "id": 124102,
+        "imageNameList": [
+            "UI_SumeruTutorial_StarShroom_02"
+        ],
+        "descriptTextMapHash": 3717536608
+    },
+    {
+        "id": 124201,
+        "imageNameList": [
+            "UI_SumeruTutorial_MusicNotGet"
+        ],
+        "descriptTextMapHash": 598440856
+    },
+    {
+        "id": 124301,
+        "imageNameList": [
+            "UI_SumeruTutorial_Command_04"
+        ],
+        "descriptTextMapHash": 2792599136
+    },
+    {
+        "id": 124401,
+        "imageNameList": [
+            "UI_SumeruTutorial_PlotInference_01"
+        ],
+        "descriptTextMapHash": 3904907880
+    },
+    {
+        "id": 124402,
+        "imageNameList": [
+            "UI_SumeruTutorial_PlotInference_02"
+        ],
+        "descriptTextMapHash": 218791112
+    },
+    {
+        "id": 124403,
+        "imageNameList": [
+            "UI_SumeruTutorial_PlotInference_03"
+        ],
+        "descriptTextMapHash": 2614135784
+    },
+    {
+        "id": 124501,
+        "imageNameList": [
+            "UI_SumeruTutorial_DungeonMushroom_01"
+        ],
+        "descriptTextMapHash": 1361724400
+    },
+    {
+        "id": 124601,
+        "imageNameList": [
+            "UI_SumeruTutorial_AmberDoor_01"
+        ],
+        "descriptTextMapHash": 1829012536
+    },
+    {
+        "id": 124701,
+        "imageNameList": [
+            "UI_SumeruTutorial_FatuiMaranaWell_01"
+        ],
+        "descriptTextMapHash": 158639912
+    },
+    {
+        "id": 124801,
+        "imageNameList": [
+            "UI_Popup_Fruit_2_Alpha"
+        ],
+        "descriptTextMapHash": 4107643368
+    },
+    {
+        "id": 124901,
+        "imageNameList": [
+            "UI_Popup_Fruit_1_Alpha"
+        ],
+        "descriptTextMapHash": 3193514384
+    },
+    {
+        "id": 125001,
+        "imageNameList": [
+            "UI_Popup_Fruit_3_Alpha"
+        ],
+        "descriptTextMapHash": 2195027704
+    },
+    {
+        "id": 125101,
+        "imageNameList": [
+            "UI_Activity_FungusFighter_Catch_03"
+        ],
+        "descriptTextMapHash": 3382962752
+    },
+    {
+        "id": 125102,
+        "imageNameList": [
+            "UI_Activity_FungusFighter_Catch_01"
+        ],
+        "descriptTextMapHash": 126274040
+    },
+    {
+        "id": 125103,
+        "imageNameList": [
+            "UI_Activity_FungusFighter_Catch_04"
+        ],
+        "descriptTextMapHash": 3559477904
+    },
+    {
+        "id": 125104,
+        "imageNameList": [
+            "UI_Activity_FungusFighter_Catch_02"
+        ],
+        "descriptTextMapHash": 3941704120
+    },
+    {
+        "id": 125201,
+        "imageNameList": [
+            "UI_Activity_FungusFighter_Cultivate_01"
+        ],
+        "descriptTextMapHash": 1228408968
+    },
+    {
+        "id": 125202,
+        "imageNameList": [
+            "UI_Activity_FungusFighter_Cultivate_02"
+        ],
+        "descriptTextMapHash": 2708183760
+    },
+    {
+        "id": 125203,
+        "imageNameList": [
+            "UI_Activity_FungusFighter_Cultivate_03"
+        ],
+        "descriptTextMapHash": 4197067680
+    },
+    {
+        "id": 125204,
+        "imageNameList": [
+            "UI_Activity_FungusFighter_Cultivate_04"
+        ],
+        "descriptTextMapHash": 2579357264
+    },
+    {
+        "id": 125205,
+        "imageNameList": [
+            "UI_Activity_FungusFighter_Cultivate_05"
+        ],
+        "descriptTextMapHash": 1374110048
+    },
+    {
+        "id": 125301,
+        "imageNameList": [
+            "UI_Activity_FungusFighter_Dungeon_01"
+        ],
+        "descriptTextMapHash": 2050001008
+    },
+    {
+        "id": 125302,
+        "imageNameList": [
+            "UI_Activity_FungusFighter_Dungeon_02"
+        ],
+        "descriptTextMapHash": 189267544
+    },
+    {
+        "id": 125303,
+        "imageNameList": [
+            "UI_Activity_FungusFighter_Dungeon_03"
+        ],
+        "descriptTextMapHash": 2967603448
+    },
+    {
+        "id": 125401,
+        "imageNameList": [
+            "UI_Activity_FungusFighter_DungeonA_01"
+        ],
+        "descriptTextMapHash": 1241144008
+    },
+    {
+        "id": 125501,
+        "imageNameList": [
+            "UI_Activity_FungusFighter_DungeonD_01"
+        ],
+        "descriptTextMapHash": 3922732800
+    },
+    {
+        "id": 125801,
+        "imageNameList": [
+            "UI_SumeruTutorial_DeshretConsole_01"
+        ],
+        "descriptTextMapHash": 1690163112
+    },
+    {
+        "id": 125802,
+        "imageNameList": [
+            "UI_SumeruTutorial_DeshretConsole_02"
+        ],
+        "descriptTextMapHash": 2486801984
+    },
+    {
+        "id": 125901,
+        "imageNameList": [
+            "UI_SumeruTutorial_BarrierGenerator_01"
+        ],
+        "descriptTextMapHash": 778789648
+    },
+    {
+        "id": 126001,
+        "imageNameList": [
+            "UI_SumeruTutorial_LaserGenerator_01"
+        ],
+        "descriptTextMapHash": 2618154880
+    },
+    {
+        "id": 126002,
+        "imageNameList": [
+            "UI_SumeruTutorial_LaserGenerator_02"
+        ],
+        "descriptTextMapHash": 110408512
+    },
+    {
+        "id": 126101,
+        "imageNameList": [
+            "UI_SumeruTutorial_DeshretBlower_01"
+        ],
+        "descriptTextMapHash": 4185051536
+    },
+    {
+        "id": 126201,
+        "imageNameList": [
+            "UI_SumeruTutorial_NoiseGenerator"
+        ],
+        "descriptTextMapHash": 3906017976
+    },
+    {
+        "id": 126301,
+        "imageNameList": [
+            "UI_SumeruTutorial_NoiseBrances"
+        ],
+        "descriptTextMapHash": 618656912
+    },
+    {
+        "id": 126401,
+        "imageNameList": [
+            "UI_SumeruTutorial_CWArchitects_01"
+        ],
+        "descriptTextMapHash": 2912392384
+    },
+    {
+        "id": 126402,
+        "imageNameList": [
+            "UI_SumeruTutorial_CWArchitects_02"
+        ],
+        "descriptTextMapHash": 4095584080
+    },
+    {
+        "id": 126403,
+        "imageNameList": [
+            "UI_SumeruTutorial_CWArchitects_03"
+        ],
+        "descriptTextMapHash": 1049603576
+    },
+    {
+        "id": 126501,
+        "imageNameList": [
+            "UI_SumeruTutorial_PhantomFloor"
+        ],
+        "descriptTextMapHash": 1344746592
+    },
+    {
+        "id": 126601,
+        "imageNameList": [
+            "UI_SumeruTutorial_EnergySpark_01"
+        ],
+        "descriptTextMapHash": 748835536
+    },
+    {
+        "id": 126602,
+        "imageNameList": [
+            "UI_SumeruTutorial_EnergySpark_02"
+        ],
+        "descriptTextMapHash": 2996494496
+    },
+    {
+        "id": 126701,
+        "imageNameList": [
+            "UI_SumeruTutorial_DeshretObelisk_01"
+        ],
+        "descriptTextMapHash": 2614266272
+    },
+    {
+        "id": 126702,
+        "imageNameList": [
+            "UI_SumeruTutorial_DeshretObelisk_02"
+        ],
+        "descriptTextMapHash": 4079374440
+    },
+    {
+        "id": 126801,
+        "imageNameList": [
+            "UI_SumeruTutorial_SandPile"
+        ],
+        "descriptTextMapHash": 1371723344
+    },
+    {
+        "id": 126901,
+        "imageNameList": [
+            "UI_SumeruTutorial_HourGlass"
+        ],
+        "descriptTextMapHash": 3588043304
+    },
+    {
+        "id": 127001,
+        "imageNameList": [
+            "UI_SumeruTutorial_RBCrystals"
+        ],
+        "descriptTextMapHash": 3833642536
+    },
+    {
+        "id": 127101,
+        "imageNameList": [
+            "UI_SumeruTutorial_TitanCannon"
+        ],
+        "descriptTextMapHash": 2428348760
+    },
+    {
+        "id": 127201,
+        "imageNameList": [
+            "UI_SumeruTutorial_TitanCannon02"
+        ],
+        "descriptTextMapHash": 1991172512
+    },
+    {
+        "id": 127301,
+        "imageNameList": [
+            "UI_SumeruTutorial_VineCore"
+        ],
+        "descriptTextMapHash": 1173321024
+    },
+    {
+        "id": 127401,
+        "imageNameList": [
+            "UI_DeshretGuideManual_Tutorial_Pic_1"
+        ],
+        "descriptTextMapHash": 577867544
+    },
+    {
+        "id": 127501,
+        "imageNameList": [
+            "UI_DeshretGuideManual_Tutorial_Pic_2"
+        ],
+        "descriptTextMapHash": 1675751736
+    },
+    {
+        "id": 127601,
+        "imageNameList": [
+            "UI_DeshretGuideManual_Tutorial_Pic_3"
+        ],
+        "descriptTextMapHash": 740125184
+    },
+    {
+        "id": 127701,
+        "imageNameList": [
+            "UI_DeshretGuideManual_Tutorial_Pic_4"
+        ],
+        "descriptTextMapHash": 1722844472
+    },
+    {
+        "id": 127702,
+        "imageNameList": [
+            "UI_DeshretGuideManual_Tutorial_Pic_6"
+        ],
+        "descriptTextMapHash": 2745488432
+    },
+    {
+        "id": 127801,
+        "imageNameList": [
+            "UI_DeshretGuideManual_Tutorial_Pic_5"
+        ],
+        "descriptTextMapHash": 1481684928
+    },
+    {
+        "id": 128001,
+        "imageNameList": [
+            "UI_QuestPicture_SumeruRose_Alpha"
+        ],
+        "descriptTextMapHash": 2343242584
+    },
+    {
+        "id": 128201,
+        "imageNameList": [
+            "UI_ACTIVITY_EFFIGY_CHALLENGE_V2"
+        ],
+        "descriptTextMapHash": 4178476184
+    },
+    {
+        "id": 128601,
+        "imageNameList": [
+            "UI_Tutorial_148a"
+        ],
+        "descriptTextMapHash": 3020127696
+    },
+    {
+        "id": 128602,
+        "imageNameList": [
+            "UI_Tutorial_148b"
+        ],
+        "descriptTextMapHash": 1341206816
+    },
+    {
+        "id": 128603,
+        "imageNameList": [
+            "UI_Tutorial_148c"
+        ],
+        "descriptTextMapHash": 2723136976
+    },
+    {
+        "id": 128801,
+        "imageNameList": [
+            "UI_Activity_FungusFighter_Dungeon_04"
+        ],
+        "descriptTextMapHash": 2600063152
     }
 ]

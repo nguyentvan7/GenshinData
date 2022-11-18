@@ -1047,8 +1047,8 @@
     {
         "name": "CONST_VALUE_ELEMENT_MASTERY_PARAM_OVERDOSE",
         "value": [
-            "10.00",
-            "1400",
+            "5",
+            "1200",
             "",
             "",
             "",
@@ -1630,7 +1630,7 @@
     {
         "name": "CONST_VALUE_SOCIAL_CONFIG",
         "value": [
-            "45",
+            "60",
             "50",
             "50",
             "10",
@@ -1656,7 +1656,7 @@
             "10",
             "1",
             "320000",
-            "1630450800",
+            "1664319600",
             ""
         ]
     },
@@ -1685,7 +1685,7 @@
     {
         "name": "CONST_VALUE_GAGDET_CREATION_LIMIT_DROP_TAG",
         "value": [
-            "搜刮点解谜",
+            "\u641c\u522e\u70b9\u89e3\u8c1c",
             "100",
             "",
             "",
@@ -2477,7 +2477,7 @@
     {
         "name": "CONST_VALUE_CAN_NOT_DESTROY_MATERIAL_TYPE_LIST",
         "value": [
-            "假吸附物;吸附物;角色卡;命星;宝箱;任务物品;蛐蛐;元素结晶;可批量使用宝箱;可选宝箱;海灯节花灯;导能原盘buff;名片;小功能道具;时装卡;家具套装图纸;家具图纸",
+            "\u5047\u5438\u9644\u7269;\u5438\u9644\u7269;\u89d2\u8272\u5361;\u547d\u661f;\u5b9d\u7bb1;\u4efb\u52a1\u7269\u54c1;\u86d0\u86d0;\u5143\u7d20\u7ed3\u6676;\u53ef\u6279\u91cf\u4f7f\u7528\u5b9d\u7bb1;\u53ef\u9009\u5b9d\u7bb1;\u6d77\u706f\u8282\u82b1\u706f;\u5bfc\u80fd\u539f\u76d8buff;\u540d\u7247;\u5c0f\u529f\u80fd\u9053\u5177;\u65f6\u88c5\u5361;\u5bb6\u5177\u5957\u88c5\u56fe\u7eb8;\u5bb6\u5177\u56fe\u7eb8",
             "",
             "",
             "",
@@ -2904,6 +2904,171 @@
         ]
     },
     {
+        "name": "CONST_VALUE_ACHIEVEMENT_SEARCH_PATTERN_LIMIT",
+        "value": [
+            "100",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_SEND_QUESTIONNAIRE_MAIL_LOGOUT_TIME",
+        "value": [
+            "1209600",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_SEND_QUESTIONNAIRE_MAIL_CD_TIME",
+        "value": [
+            "7257600",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_NIGHT_CROW_CONFIG",
+        "value": [
+            "101",
+            "0",
+            "0.5,0.5,0.5",
+            "0.3,0.3,0.3",
+            "0.4,0.4,0.4",
+            "102"
+        ]
+    },
+    {
+        "name": "CONST_VALUE_HANDBOOK_QUEST_GUIDE_MAX_NUM",
+        "value": [
+            "5",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_DEATH_ZONE_PARAM",
+        "value": [
+            "100",
+            "10",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_SUMMER_TIME_PORTAL_LOADING",
+        "value": [
+            "1",
+            "1",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_COMPOUND_BOOST_ITEM_ID",
+        "value": [
+            "220060",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_COMPOUND_BOOST_TIME_TOLERANCE",
+        "value": [
+            "1",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_ACHIEVEMENT_SEARCH_LIMIT",
+        "value": [
+            "0,3,1,1,3,3,3,3,3,2,2,4,3,3,0,0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_NAHIDA_NARRATOR",
+        "value": [
+            "1000",
+            "3",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_ACHIEVEMENT_RESULT_AMOUNT_PER_PAGE",
+        "value": [
+            "30",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_REQ_FRIEND_AVATAR_TIME_LIMIT",
+        "value": [
+            "1000",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_DAILY_TASK_RELATED_TAG_EFFECT_PROB",
+        "value": [
+            "0.15",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_NAHIDA_DUNGEON_MASK",
+        "value": [
+            "3",
+            "1.5",
+            "1.5",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
         "name": "CONST_VALUE_ASTER_MIDDLE_RECOVER",
         "value": [
             "3600",
@@ -3095,7 +3260,7 @@
         "value": [
             "10",
             "500",
-            "",
+            "3",
             "",
             "",
             ""
@@ -3457,6 +3622,50 @@
         "name": "CONST_VALUE_HOME_WAIT_ENTER_EDIT_FINISH_RSP",
         "value": [
             "2",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_HOME_BLUE_PRINT_COMPLETENESS",
+        "value": [
+            "0.9",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_HOME_BLUEPRINT_CD_LIMIT",
+        "value": [
+            "5",
+            "10",
+            "1",
+            "3",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_HOME_BLUEPRINT_GEN_SHARE_CODE_RETRY_TIMES",
+        "value": [
+            "2",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "CONST_VALUE_HOME_BLUEPRINT_SHARE_CODE_SEARCH_PATTERN_LIMIT",
+        "value": [
+            "15",
             "",
             "",
             "",

@@ -7,7 +7,9 @@
         "condGroupId": [
             1
         ],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5001,
@@ -31,7 +33,9 @@
             1500111,
             1500112,
             1500113
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5002,
@@ -39,7 +43,9 @@
         "nameTextMapHash": 43085627,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5003,
@@ -49,7 +55,9 @@
         "condGroupId": [
             500301
         ],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 2001,
@@ -63,7 +71,9 @@
             1200130,
             1200131,
             1200132
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5004,
@@ -71,7 +81,9 @@
         "nameTextMapHash": 3140529491,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5005,
@@ -79,7 +91,9 @@
         "nameTextMapHash": 3680320923,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5006,
@@ -89,7 +103,9 @@
         "condGroupId": [
             500601
         ],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5007,
@@ -121,7 +137,9 @@
             1507001,
             1507002,
             1507003
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 3001,
@@ -131,7 +149,9 @@
         "condGroupId": [
             3001001
         ],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5008,
@@ -139,7 +159,9 @@
         "nameTextMapHash": 3554662043,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5009,
@@ -147,7 +169,9 @@
         "nameTextMapHash": 2036640027,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5010,
@@ -155,7 +179,9 @@
         "nameTextMapHash": 412965627,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5011,
@@ -165,7 +191,9 @@
         "condGroupId": [
             501101
         ],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5012,
@@ -175,7 +203,9 @@
         "condGroupId": [
             501201
         ],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5014,
@@ -185,7 +215,9 @@
         "condGroupId": [
             501401
         ],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5015,
@@ -193,7 +225,9 @@
         "nameTextMapHash": 574345899,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5016,
@@ -203,7 +237,9 @@
         "condGroupId": [
             501601
         ],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5017,
@@ -213,7 +249,9 @@
         "condGroupId": [
             501701
         ],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 2002,
@@ -254,7 +292,9 @@
             1200239,
             1200240,
             1200241
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 6002,
@@ -262,7 +302,9 @@
         "nameTextMapHash": 2829736099,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 6003,
@@ -272,7 +314,9 @@
         "condGroupId": [
             600301
         ],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5018,
@@ -280,7 +324,9 @@
         "nameTextMapHash": 3005335419,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5019,
@@ -312,7 +358,9 @@
             1501919,
             1501920,
             1501921
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 2003,
@@ -359,7 +407,9 @@
             1200344,
             1200345,
             1200346
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5020,
@@ -371,7 +421,9 @@
         ],
         "watcherId": [
             1502010
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5021,
@@ -379,7 +431,9 @@
         "nameTextMapHash": 2977233019,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 2004,
@@ -391,7 +445,9 @@
         ],
         "watcherId": [
             1200401
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5022,
@@ -432,7 +488,9 @@
             1502228,
             1502229,
             1502230
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5023,
@@ -448,7 +506,9 @@
             1502303,
             1502304,
             1502305
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5024,
@@ -466,7 +526,9 @@
             1502405,
             1502406,
             1502407
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5025,
@@ -474,7 +536,9 @@
         "nameTextMapHash": 2942613467,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5026,
@@ -482,7 +546,9 @@
         "nameTextMapHash": 1220324699,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5027,
@@ -490,7 +556,9 @@
         "nameTextMapHash": 734691531,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 2005,
@@ -537,7 +605,9 @@
             1200534,
             1200535,
             1200536
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5028,
@@ -545,7 +615,9 @@
         "nameTextMapHash": 617503499,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5029,
@@ -553,7 +625,9 @@
         "nameTextMapHash": 4129510835,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5030,
@@ -585,7 +659,9 @@
             1503022,
             1503023,
             1503024
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5031,
@@ -595,7 +671,9 @@
         "condGroupId": [
             503101
         ],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5032,
@@ -607,7 +685,9 @@
         ],
         "watcherId": [
             1503208
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5033,
@@ -617,7 +697,9 @@
         "condGroupId": [
             503301
         ],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 6005,
@@ -625,7 +707,9 @@
         "nameTextMapHash": 1014579235,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 6006,
@@ -633,7 +717,9 @@
         "nameTextMapHash": 2699446819,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5034,
@@ -672,7 +758,9 @@
             1503426,
             1503427,
             1503428
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5035,
@@ -682,7 +770,9 @@
         "condGroupId": [
             503501
         ],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 2006,
@@ -725,7 +815,9 @@
             1200668,
             1200671,
             1200672
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5036,
@@ -733,7 +825,9 @@
         "nameTextMapHash": 3882544107,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5037,
@@ -759,7 +853,9 @@
             1503713,
             1503714,
             1503715
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5038,
@@ -767,7 +863,9 @@
         "nameTextMapHash": 3388342515,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5039,
@@ -775,7 +873,9 @@
         "nameTextMapHash": 3878534475,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5040,
@@ -805,7 +905,9 @@
             1504020,
             1504021,
             1504022
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5041,
@@ -831,7 +933,9 @@
             1504113,
             1504114,
             1504115
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 2007,
@@ -857,7 +961,9 @@
             1200713,
             1200714,
             1200715
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5042,
@@ -865,7 +971,9 @@
         "nameTextMapHash": 1501676995,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5043,
@@ -873,7 +981,9 @@
         "nameTextMapHash": 3211416763,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5044,
@@ -883,7 +993,9 @@
         "condGroupId": [
             504401
         ],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5045,
@@ -891,7 +1003,9 @@
         "nameTextMapHash": 3013098219,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5046,
@@ -899,7 +1013,9 @@
         "nameTextMapHash": 2730288635,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5047,
@@ -919,7 +1035,9 @@
             15047015,
             15047021,
             15047031
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5048,
@@ -927,7 +1045,9 @@
         "nameTextMapHash": 532312771,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 2008,
@@ -954,7 +1074,9 @@
             2008016,
             2008018,
             2008019
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5049,
@@ -981,7 +1103,9 @@
             15049014,
             15049015,
             15049016
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5050,
@@ -1013,7 +1137,9 @@
             15050019,
             15050020,
             15050021
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 2009,
@@ -1046,7 +1172,9 @@
             12009302,
             12009303,
             12009304
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5051,
@@ -1066,7 +1194,9 @@
             1505107,
             1505108,
             1505109
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5052,
@@ -1074,7 +1204,9 @@
         "nameTextMapHash": 1242349539,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5053,
@@ -1086,7 +1218,9 @@
         ],
         "watcherId": [
             15053001
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5054,
@@ -1111,7 +1245,9 @@
             1505412,
             1505413,
             1505414
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 2010,
@@ -1173,7 +1309,9 @@
             12010216,
             12010217,
             12010218
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5055,
@@ -1191,7 +1329,9 @@
             15055005,
             15055006,
             15055007
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5056,
@@ -1199,7 +1339,9 @@
         "nameTextMapHash": 3460017059,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5057,
@@ -1207,7 +1349,9 @@
         "nameTextMapHash": 3133143035,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5058,
@@ -1239,7 +1383,9 @@
             15058019,
             15058020,
             15058021
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5059,
@@ -1247,7 +1393,9 @@
         "nameTextMapHash": 3145484811,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5060,
@@ -1255,7 +1403,9 @@
         "nameTextMapHash": 2845558683,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5061,
@@ -1265,7 +1415,9 @@
         "condGroupId": [
             506101
         ],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 2011,
@@ -1297,7 +1449,9 @@
             12011304,
             12011305,
             12011306
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5062,
@@ -1322,7 +1476,9 @@
             15062041,
             15062042,
             15062043
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5063,
@@ -1330,7 +1486,9 @@
         "nameTextMapHash": 3505523731,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5064,
@@ -1338,7 +1496,9 @@
         "nameTextMapHash": 1829417819,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5065,
@@ -1367,7 +1527,9 @@
             15065016,
             15065017,
             15065018
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5066,
@@ -1395,7 +1557,9 @@
             15066015,
             15066016,
             15066017
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5067,
@@ -1424,7 +1588,9 @@
             15067016,
             15067017,
             15067018
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 2012,
@@ -1477,7 +1643,9 @@
             12012233,
             12012234,
             12012235
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5068,
@@ -1502,7 +1670,9 @@
             15068012,
             15068013,
             15068014
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5069,
@@ -1510,7 +1680,9 @@
         "nameTextMapHash": 3756841219,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5070,
@@ -1518,7 +1690,9 @@
         "nameTextMapHash": 2266300651,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5071,
@@ -1526,7 +1700,63 @@
         "nameTextMapHash": 2534847571,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5072,
+        "activityType": "NEW_ACTIVITY_MUSIC_GAME",
+        "nameTextMapHash": 1971769931,
+        "activitySceneTag": "",
+        "condGroupId": [
+            507201
+        ],
+        "watcherId": [
+            15072001,
+            15072002,
+            15072003,
+            15072004,
+            15072005,
+            15072006,
+            15072007,
+            15072008,
+            15072009,
+            15072010,
+            15072011,
+            15072012,
+            15072013,
+            15072014,
+            15072015,
+            15072016,
+            15072017,
+            15072018,
+            15072019,
+            15072020,
+            15072021
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5073,
+        "activityType": "NEW_ACTIVITY_COOP",
+        "nameTextMapHash": 3521841691,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5074,
+        "activityType": "NEW_ACTIVITY_COOP",
+        "nameTextMapHash": 3627521587,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5075,
@@ -1534,7 +1764,9 @@
         "nameTextMapHash": 1768512867,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5076,
@@ -1563,7 +1795,9 @@
             1507646,
             1507647,
             1507648
-        ]
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5077,
@@ -1571,7 +1805,9 @@
         "nameTextMapHash": 3105165395,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     },
     {
         "activityId": 5078,
@@ -1579,6 +1815,881 @@
         "nameTextMapHash": 3901007963,
         "activitySceneTag": "",
         "condGroupId": [],
-        "watcherId": []
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5079,
+        "activityType": "NEW_ACTIVITY_LUMINANCE_STONE_CHALLENGE",
+        "nameTextMapHash": 1597753651,
+        "activitySceneTag": "",
+        "condGroupId": [
+            507901
+        ],
+        "watcherId": [
+            1507901,
+            1507902,
+            1507903,
+            1507904,
+            1507905,
+            1507906,
+            1507907
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5080,
+        "activityType": "NEW_ACTIVITY_GACHA",
+        "nameTextMapHash": 1032428627,
+        "activitySceneTag": "",
+        "condGroupId": [
+            508001
+        ],
+        "watcherId": [
+            1508001,
+            1508002,
+            1508003,
+            1508011,
+            1508012,
+            1508024,
+            1508034,
+            1508041
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 2013,
+        "activityType": "NEW_ACTIVITY_ROGUE_DIARY",
+        "nameTextMapHash": 3047307139,
+        "activitySceneTag": "",
+        "condGroupId": [
+            201301
+        ],
+        "watcherId": [
+            1201301,
+            1201302,
+            1201303,
+            1201304,
+            1201305,
+            1201306,
+            1201307,
+            1201309,
+            1201310,
+            1201311,
+            1201312,
+            1201314,
+            1201315,
+            1201316,
+            1201317,
+            1201319,
+            1201320,
+            1201321,
+            1201322,
+            1201323,
+            1201324,
+            1201325,
+            1201327,
+            1201329,
+            1201330,
+            1201331
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5081,
+        "activityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "nameTextMapHash": 2696249099,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 2014,
+        "activityType": "NEW_ACTIVITY_SUMMER_TIME_2_8",
+        "nameTextMapHash": 2947634251,
+        "activitySceneTag": "",
+        "condGroupId": [
+            201401
+        ],
+        "watcherId": [
+            12014001,
+            12014002,
+            12014003,
+            12014004,
+            12014101,
+            12014102,
+            12014103,
+            12014104,
+            12014201,
+            12014202,
+            12014203,
+            12014204,
+            12014301,
+            12014302,
+            12014303,
+            12014304,
+            12014401,
+            12014402,
+            12014403,
+            12014404,
+            12014405,
+            12014406,
+            12014407,
+            12014408,
+            12014409,
+            12014410,
+            12014411,
+            12014412,
+            12014413,
+            12014414,
+            12014415,
+            12014416,
+            12014417,
+            12014418,
+            12014501
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5082,
+        "activityType": "NEW_ACTIVITY_GEAR",
+        "nameTextMapHash": 3676486099,
+        "activitySceneTag": "",
+        "condGroupId": [
+            508201
+        ],
+        "watcherId": [
+            15082001,
+            15082002,
+            15082003,
+            15082004,
+            15082005,
+            15082006
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5083,
+        "activityType": "NEW_ACTIVITY_ISLAND_PARTY",
+        "nameTextMapHash": 2618971707,
+        "activitySceneTag": "",
+        "condGroupId": [
+            508301
+        ],
+        "watcherId": [
+            15083001,
+            15083002,
+            15083003,
+            15083004,
+            15083005,
+            15083006,
+            15083007,
+            15083008,
+            15083009,
+            15083010,
+            15083011,
+            15083012,
+            15083013,
+            15083014,
+            15083015,
+            15083016,
+            15083017,
+            15083018
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5084,
+        "activityType": "NEW_ACTIVITY_ECHO_SHELL",
+        "nameTextMapHash": 97430259,
+        "activitySceneTag": "",
+        "condGroupId": [
+            508401
+        ],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5085,
+        "activityType": "NEW_ACTIVITY_ARENA_CHALLENGE",
+        "nameTextMapHash": 1863926515,
+        "activitySceneTag": "",
+        "condGroupId": [
+            508501
+        ],
+        "watcherId": [
+            1508501,
+            1508502,
+            1508503,
+            1508504,
+            1508505,
+            1508506,
+            1508507,
+            1508508,
+            1508509,
+            1508510,
+            1508511,
+            1508512,
+            1508513,
+            1508514,
+            1508515,
+            1508516,
+            1508517,
+            1508518,
+            1508519,
+            1508520,
+            1508521,
+            1508522,
+            1508523,
+            1508524,
+            1508525,
+            1508526,
+            1508527,
+            1508528
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5086,
+        "activityType": "NEW_ACTIVITY_GENERAL_BANNER",
+        "nameTextMapHash": 2833055627,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5087,
+        "activityType": "NEW_ACTIVITY_INSTABLE_SPRAY",
+        "nameTextMapHash": 1011803683,
+        "activitySceneTag": "",
+        "condGroupId": [
+            508701
+        ],
+        "watcherId": [
+            1508701,
+            1508702,
+            1508703,
+            1508704,
+            1508705,
+            1508706,
+            1508707,
+            1508708,
+            1508709,
+            1508710,
+            1508711,
+            1508712
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 2015,
+        "activityType": "NEW_ACTIVITY_GRAVEN_INNOCENCE",
+        "nameTextMapHash": 418238347,
+        "activitySceneTag": "",
+        "condGroupId": [
+            201501
+        ],
+        "watcherId": [
+            12015001,
+            12015002,
+            12015003,
+            12015004,
+            12015101,
+            12015102,
+            12015103,
+            12015104,
+            12015105,
+            12015106,
+            12015107,
+            12015108,
+            12015109,
+            12015110,
+            12015111,
+            12015112,
+            12015113,
+            12015114,
+            12015115,
+            12015116,
+            12015117,
+            12015118,
+            12015119,
+            12015120,
+            12015201,
+            12015202,
+            12015203,
+            12015204,
+            12015209,
+            12015210,
+            12015211,
+            12015212,
+            12015301,
+            12015302,
+            12015303,
+            12015304,
+            12015305,
+            12015306,
+            12015307,
+            12015308,
+            12015309,
+            12015310,
+            12015311,
+            12015312,
+            12015313,
+            12015314,
+            12015315,
+            12015316,
+            12015317,
+            12015318,
+            12015319,
+            12015320,
+            12015321,
+            12015401,
+            12015402,
+            12015403,
+            12015404,
+            12015405,
+            12015406,
+            12015407,
+            12015408,
+            12015409,
+            12015410,
+            12015411,
+            12015412
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5088,
+        "activityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "nameTextMapHash": 2691440459,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5089,
+        "activityType": "NEW_ACTIVITY_GENERAL_BANNER",
+        "nameTextMapHash": 2979958955,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5090,
+        "activityType": "NEW_ACTIVITY_MUQADAS_POTION",
+        "nameTextMapHash": 2048292451,
+        "activitySceneTag": "",
+        "condGroupId": [
+            509001
+        ],
+        "watcherId": [
+            1509001,
+            1509002,
+            1509003,
+            1509004,
+            1509005,
+            1509006,
+            1509007,
+            1509008,
+            1509009,
+            1509010,
+            1509011,
+            1509012,
+            1509013,
+            1509014,
+            1509015,
+            1509016,
+            1509017,
+            1509018,
+            1509019,
+            1509020,
+            1509021
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5091,
+        "activityType": "NEW_ACTIVITY_TREASURE_SEELIE",
+        "nameTextMapHash": 3613320683,
+        "activitySceneTag": "",
+        "condGroupId": [
+            509101
+        ],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5092,
+        "activityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "nameTextMapHash": 1677600611,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5093,
+        "activityType": "NEW_ACTIVITY_GENERAL_BANNER",
+        "nameTextMapHash": 2299651155,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 2016,
+        "activityType": "NEW_ACTIVITY_VINTAGE",
+        "nameTextMapHash": 3490312651,
+        "activitySceneTag": "Vintage",
+        "isLoadTerrain": true,
+        "condGroupId": [
+            201601
+        ],
+        "watcherId": [
+            12016001,
+            12016002,
+            12016003,
+            12016004,
+            12016005,
+            12016006,
+            12016007,
+            12016008,
+            12016009,
+            12016010,
+            12016011,
+            12016012,
+            12016013,
+            12016015,
+            12016016,
+            12016017,
+            12016018,
+            12016019,
+            12016020,
+            12016021,
+            12016022,
+            12016023,
+            12016024,
+            12016025,
+            12016026,
+            12016027,
+            12016028,
+            12016029,
+            12016030,
+            12016031,
+            12016032,
+            12016033,
+            12016034,
+            12016035,
+            12016036,
+            12016038,
+            12016039,
+            12016040,
+            12016042,
+            12016043,
+            12016044,
+            12016045,
+            12016046,
+            12016047,
+            12016048,
+            12016049
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5094,
+        "activityType": "NEW_ACTIVITY_SUMO",
+        "nameTextMapHash": 2164069291,
+        "activitySceneTag": "",
+        "condGroupId": [
+            509401
+        ],
+        "watcherId": [
+            1509401,
+            1509402,
+            1509403,
+            1509404,
+            1509405,
+            1509406,
+            1509407,
+            1509408,
+            1509409,
+            1509410,
+            1509411,
+            1509412,
+            1509413,
+            1509414,
+            1509415,
+            1509416,
+            1509417,
+            1509418
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5095,
+        "activityType": "NEW_ACTIVITY_WIND_FIELD",
+        "nameTextMapHash": 4276620915,
+        "activitySceneTag": "",
+        "condGroupId": [
+            509501
+        ],
+        "watcherId": [
+            1509531,
+            1509517,
+            1509518,
+            1509532,
+            1509520,
+            1509521,
+            1509533,
+            1509523,
+            1509524,
+            1509534,
+            1509526,
+            1509527,
+            1509535,
+            1509529,
+            1509530
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5096,
+        "activityType": "NEW_ACTIVITY_ROCK_BOARD_EXPLORE",
+        "nameTextMapHash": 4119252379,
+        "activitySceneTag": "",
+        "condGroupId": [
+            509601
+        ],
+        "watcherId": [
+            1509607,
+            1509608,
+            1509609,
+            1509610,
+            1509611,
+            1509612
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5098,
+        "activityType": "NEW_ACTIVITY_FUNGUS_FIGHTER",
+        "nameTextMapHash": 4034801971,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 2017,
+        "activityType": "NEW_ACTIVITY_FUNGUS_FIGHTER",
+        "nameTextMapHash": 67634323,
+        "activitySceneTag": "FungusFighter",
+        "isLoadTerrain": true,
+        "condGroupId": [
+            201701
+        ],
+        "watcherId": [
+            1201701,
+            1201702,
+            1201703,
+            1201704,
+            1201705,
+            1201706,
+            1201707,
+            1201708,
+            1201709,
+            1201710,
+            1201711,
+            1201712,
+            1201713,
+            1201714,
+            1201715,
+            1201716,
+            1201717,
+            1201718,
+            1201719,
+            1201720,
+            1201721,
+            1201722,
+            1201723,
+            1201724,
+            1201725,
+            1201726,
+            1201727,
+            1201728,
+            1201729,
+            1201730,
+            1201731,
+            1201732,
+            1201733,
+            1201734,
+            1201735,
+            1201736,
+            1201737,
+            1201738,
+            1201739,
+            1201740,
+            1201741,
+            1201742,
+            1201743,
+            1201744,
+            1201745,
+            1201746,
+            1201747,
+            1201748,
+            1201749,
+            1201750,
+            1201751,
+            1201752,
+            1201753,
+            1201754,
+            1201755,
+            1201756,
+            1201757,
+            1201758,
+            1201759,
+            1201760
+        ],
+        "GBLGBFKHCKK": [
+            151,
+            152
+        ],
+        "dungeonIdList": [
+            8101,
+            8102,
+            8103,
+            8104,
+            8105,
+            8106,
+            8107,
+            8108,
+            8109,
+            8110,
+            8111,
+            8112,
+            8113,
+            8114,
+            8115,
+            8116
+        ]
+    },
+    {
+        "activityId": 5099,
+        "activityType": "NEW_ACTIVITY_CHAR_AMUSEMENT",
+        "nameTextMapHash": 681831027,
+        "activitySceneTag": "",
+        "condGroupId": [
+            509901
+        ],
+        "watcherId": [
+            1509901,
+            1509902,
+            1509903,
+            1509904,
+            1509905,
+            1509906,
+            1509907
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": [
+            5311
+        ]
+    },
+    {
+        "activityId": 5100,
+        "activityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "nameTextMapHash": 2217998283,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5101,
+        "activityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "nameTextMapHash": 549869123,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5102,
+        "activityType": "NEW_ACTIVITY_GENERAL_BANNER",
+        "nameTextMapHash": 2339550643,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5103,
+        "activityType": "NEW_ACTIVITY_GENERAL_BANNER",
+        "nameTextMapHash": 3064032339,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5104,
+        "activityType": "NEW_ACTIVITY_GENERAL_BANNER",
+        "nameTextMapHash": 3028644827,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5105,
+        "activityType": "NEW_ACTIVITY_GENERAL_BANNER",
+        "nameTextMapHash": 2379916235,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5106,
+        "activityType": "NEW_ACTIVITY_GENERAL_BANNER",
+        "nameTextMapHash": 899881235,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5107,
+        "activityType": "NEW_ACTIVITY_EFFIGY_CHALLENGE_V2",
+        "nameTextMapHash": 546551763,
+        "activitySceneTag": "",
+        "condGroupId": [
+            510701
+        ],
+        "watcherId": [
+            1510701,
+            1510702,
+            1510703,
+            1510704,
+            1510705,
+            1510706,
+            1510707,
+            1510708,
+            1510709,
+            1510710,
+            1510711,
+            1510712,
+            1510713,
+            1510714,
+            1510715,
+            1510716,
+            1510717,
+            1510718,
+            1510719,
+            1510720,
+            1510721,
+            1510722,
+            1510723,
+            1510724,
+            1510725,
+            1510726,
+            1510727,
+            1510728
+        ],
+        "GBLGBFKHCKK": [
+            153
+        ],
+        "dungeonIdList": [
+            4048,
+            4049,
+            4050,
+            4051,
+            4052,
+            4053,
+            4054,
+            4055
+        ]
+    },
+    {
+        "activityId": 5108,
+        "activityType": "NEW_ACTIVITY_PHOTO",
+        "nameTextMapHash": 98751835,
+        "activitySceneTag": "",
+        "condGroupId": [
+            510801
+        ],
+        "watcherId": [
+            15108001,
+            15108002,
+            15108003,
+            15108004,
+            15108005,
+            15108006,
+            15108007,
+            15108008,
+            15108009,
+            15108010,
+            15108011,
+            15108012,
+            15108013,
+            15108014
+        ],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5109,
+        "activityType": "NEW_ACTIVITY_GENERAL_BANNER",
+        "nameTextMapHash": 1603677411,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5113,
+        "activityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "nameTextMapHash": 2814175875,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "GBLGBFKHCKK": [],
+        "dungeonIdList": []
     }
 ]

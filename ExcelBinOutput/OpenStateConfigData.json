@@ -763,6 +763,110 @@
         ]
     },
     {
+        "id": 2700,
+        "allowClientOpen": true,
+        "cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 2701,
+        "allowClientOpen": true,
+        "cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 2702,
+        "allowClientOpen": true,
+        "cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 2703,
+        "allowClientOpen": true,
+        "cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 2800,
+        "allowClientOpen": true,
+        "cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 2704,
+        "allowClientOpen": true,
+        "cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 3006,
+        "allowClientOpen": true,
+        "cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 3007,
+        "allowClientOpen": true,
+        "cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 3100,
+        "allowClientOpen": true,
+        "cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 3101,
+        "allowClientOpen": true,
+        "cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 3102,
+        "allowClientOpen": true,
+        "cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 3103,
+        "allowClientOpen": true,
+        "cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 3201,
+        "allowClientOpen": true,
+        "cond": [
+            {},
+            {}
+        ]
+    },
+    {
         "id": 57,
         "cond": [
             {
@@ -947,6 +1051,29 @@
         ]
     },
     {
+        "id": 3004,
+        "cond": [
+            {
+                "condType": "OPEN_STATE_OFFERING_LEVEL",
+                "param": 5,
+                "param2": 50
+            },
+            {
+                "condType": "OPEN_STATE_COND_QUEST",
+                "param": 31101
+            }
+        ]
+    },
+    {
+        "id": 3005,
+        "defaultState": true,
+        "allowClientOpen": true,
+        "cond": [
+            {},
+            {}
+        ]
+    },
+    {
         "id": 1100,
         "cond": [
             {},
@@ -991,6 +1118,16 @@
             {
                 "condType": "OPEN_STATE_COND_QUEST",
                 "param": 39303
+            },
+            {}
+        ]
+    },
+    {
+        "id": 2801,
+        "cond": [
+            {
+                "condType": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "param": 20
             },
             {}
         ]
@@ -1170,6 +1307,16 @@
         ]
     },
     {
+        "id": 3000,
+        "cond": [
+            {
+                "condType": "OPEN_STATE_COND_QUEST",
+                "param": 7367301
+            },
+            {}
+        ]
+    },
+    {
         "id": 1404,
         "cond": [
             {
@@ -1197,6 +1344,17 @@
             {
                 "condType": "OPEN_STATE_CITY_REPUTATION_LEVEL",
                 "param": 3,
+                "param2": 2
+            },
+            {}
+        ]
+    },
+    {
+        "id": 3002,
+        "cond": [
+            {
+                "condType": "OPEN_STATE_CITY_REPUTATION_LEVEL",
+                "param": 4,
                 "param2": 2
             },
             {}
@@ -1377,6 +1535,17 @@
         "systemOpenUiId": 20
     },
     {
+        "id": 3001,
+        "cond": [
+            {
+                "condType": "OPEN_STATE_COND_QUEST",
+                "param": 7322902
+            },
+            {}
+        ],
+        "systemOpenUiId": 21
+    },
+    {
         "id": 1503,
         "cond": [
             {
@@ -1512,6 +1681,16 @@
         "allowClientOpen": true,
         "cond": [
             {},
+            {}
+        ]
+    },
+    {
+        "id": 3003,
+        "cond": [
+            {
+                "condType": "OPEN_STATE_COND_QUEST",
+                "param": 7303510
+            },
             {}
         ]
     }

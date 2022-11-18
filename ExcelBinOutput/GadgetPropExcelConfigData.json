@@ -1169,5 +1169,157 @@
         "attackCurve": "GROW_CURVE_HP",
         "defense": 500.0,
         "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70800189,
+        "hp": 1130.4000244140625,
+        "hpCurve": "GROW_CURVE_DEFENDING",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70350452,
+        "hp": 1130.4000244140625,
+        "hpCurve": "GROW_CURVE_DEFENDING",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70380220,
+        "hp": 395.6400146484375,
+        "hpCurve": "GROW_CURVE_DEFENDING",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70380221,
+        "hp": 395.6400146484375,
+        "hpCurve": "GROW_CURVE_DEFENDING",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70380222,
+        "hp": 395.6400146484375,
+        "hpCurve": "GROW_CURVE_DEFENDING",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70380223,
+        "hp": 395.6400146484375,
+        "hpCurve": "GROW_CURVE_DEFENDING",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70380307,
+        "hp": 13.583999633789062,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70380308,
+        "hp": 13.583999633789062,
+        "hpCurve": "GROW_CURVE_HP",
+        "attack": 15.071999549865723,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70380309,
+        "hp": 13.583999633789062,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70380310,
+        "hp": 13.583999633789062,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 72000019,
+        "hp": 40.75199890136719,
+        "hpCurve": "GROW_CURVE_HP",
+        "attack": 100.4800033569336,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70220107,
+        "hp": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attack": 6.791999816894531,
+        "attackCurve": "GROW_CURVE_HP",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70220108,
+        "hp": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attack": 6.791999816894531,
+        "attackCurve": "GROW_CURVE_HP",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70220109,
+        "hp": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attack": 6.791999816894531,
+        "attackCurve": "GROW_CURVE_HP",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70220125,
+        "hp": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attack": 6.791999816894531,
+        "attackCurve": "GROW_CURVE_HP",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70220126,
+        "hp": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attack": 6.791999816894531,
+        "attackCurve": "GROW_CURVE_HP",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70350462,
+        "hp": 452.1600036621094,
+        "hpCurve": "GROW_CURVE_DEFENDING",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "id": 70330449,
+        "hp": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attack": 5.02400016784668,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defense": 500.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
     }
 ]

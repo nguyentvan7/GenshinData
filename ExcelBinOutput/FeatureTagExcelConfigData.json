@@ -123,6 +123,30 @@
         "tagID": 4014
     },
     {
+        "tagID": 4016
+    },
+    {
+        "tagID": 4017
+    },
+    {
+        "tagID": 4018
+    },
+    {
+        "tagID": 4019
+    },
+    {
+        "tagID": 4020
+    },
+    {
+        "tagID": 4022
+    },
+    {
+        "tagID": 4023
+    },
+    {
+        "tagID": 4024
+    },
+    {
         "tagID": 4901
     },
     {
@@ -172,6 +196,12 @@
     },
     {
         "tagID": 9206
+    },
+    {
+        "tagID": 9207
+    },
+    {
+        "tagID": 9208
     },
     {
         "tagID": 9301
@@ -267,12 +297,63 @@
         "tagID": 10058
     },
     {
+        "tagID": 10059
+    },
+    {
+        "tagID": 10060
+    },
+    {
         "tagID": 10062
+    },
+    {
+        "tagID": 10063
     },
     {
         "tagID": 10064
     },
     {
         "tagID": 10065
+    },
+    {
+        "tagID": 10067
+    },
+    {
+        "tagID": 10070
+    },
+    {
+        "tagID": 10071
+    },
+    {
+        "tagID": 10072
+    },
+    {
+        "tagID": 10073
+    },
+    {
+        "tagID": 10074
+    },
+    {
+        "tagID": 30001,
+        "tagName": "FEATURE_TAG_AVATAR"
+    },
+    {
+        "tagID": 30002,
+        "tagName": "FEATURE_TAG_HUMAN"
+    },
+    {
+        "tagID": 30003,
+        "tagName": "FEATURE_TAG_ARANARA"
+    },
+    {
+        "tagID": 30004,
+        "tagName": "FEATURE_TAG_MONSTER"
+    },
+    {
+        "tagID": 30005,
+        "tagName": "FEATURE_TAG_ANIMAL"
+    },
+    {
+        "tagID": 30100,
+        "tagName": "FEATURE_TAG_NAHIDA_INTER"
     }
 ]

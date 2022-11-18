@@ -2302,6 +2302,322 @@
         ]
     },
     {
+        "affixId": 1114160,
+        "id": 111416,
+        "nameTextMapHash": 607067963,
+        "descTextMapHash": 3133487137,
+        "openConfig": "Weapon_Sword_Youtou",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            1.7999999523162842,
+            0.15000000596046448,
+            8.0,
+            8.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1114190,
+        "id": 111419,
+        "nameTextMapHash": 3685735523,
+        "descTextMapHash": 340827585,
+        "openConfig": "Weapon_Sword_YoutouEnchanted",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            1.7999999523162842,
+            1.0,
+            8.0,
+            -0.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1114200,
+        "id": 111420,
+        "nameTextMapHash": 1307222899,
+        "descTextMapHash": 3998024249,
+        "openConfig": "Weapon_Sword_YoutouShattered",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            1.7999999523162842,
+            8.0,
+            -0.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1114210,
+        "id": 111421,
+        "nameTextMapHash": 3159145923,
+        "descTextMapHash": 1142583433,
+        "openConfig": "Weapon_Sword_YoutouEnchanted02",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            1.7999999523162842,
+            1.0,
+            8.0,
+            -0.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1114170,
+        "id": 111417,
+        "nameTextMapHash": 243701939,
+        "descTextMapHash": 979137945,
+        "openConfig": "Weapon_Sword_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            60.0,
+            12.0,
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1114171,
+        "id": 111417,
+        "level": 1,
+        "nameTextMapHash": 1381400659,
+        "descTextMapHash": 3459882025,
+        "openConfig": "Weapon_Sword_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            75.0,
+            12.0,
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1114172,
+        "id": 111417,
+        "level": 2,
+        "nameTextMapHash": 560773659,
+        "descTextMapHash": 2658277625,
+        "openConfig": "Weapon_Sword_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            90.0,
+            12.0,
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1114173,
+        "id": 111417,
+        "level": 3,
+        "nameTextMapHash": 2694159123,
+        "descTextMapHash": 3420168881,
+        "openConfig": "Weapon_Sword_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            105.0,
+            12.0,
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1114174,
+        "id": 111417,
+        "level": 4,
+        "nameTextMapHash": 2257505883,
+        "descTextMapHash": 2510301081,
+        "openConfig": "Weapon_Sword_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            120.0,
+            12.0,
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1114180,
+        "id": 111418,
+        "nameTextMapHash": 815912907,
+        "descTextMapHash": 4282331977,
+        "openConfig": "Weapon_Sword_Pleroma",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            10.0,
+            0.035999998450279236,
+            12.0,
+            0.30000001192092896,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1114181,
+        "id": 111418,
+        "level": 1,
+        "nameTextMapHash": 3502264827,
+        "descTextMapHash": 594057257,
+        "openConfig": "Weapon_Sword_Pleroma",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            10.0,
+            0.04500000178813934,
+            12.0,
+            0.30000001192092896,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1114182,
+        "id": 111418,
+        "level": 2,
+        "nameTextMapHash": 2144501923,
+        "descTextMapHash": 2533040249,
+        "openConfig": "Weapon_Sword_Pleroma",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            10.0,
+            0.05400000140070915,
+            12.0,
+            0.30000001192092896,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1114183,
+        "id": 111418,
+        "level": 3,
+        "nameTextMapHash": 3709039099,
+        "descTextMapHash": 3869556209,
+        "openConfig": "Weapon_Sword_Pleroma",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            10.0,
+            0.06300000101327896,
+            12.0,
+            0.30000001192092896,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1114184,
+        "id": 111418,
+        "level": 4,
+        "nameTextMapHash": 1702903411,
+        "descTextMapHash": 3714764705,
+        "openConfig": "Weapon_Sword_Pleroma",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            10.0,
+            0.07199999690055847,
+            12.0,
+            0.30000001192092896,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
         "affixId": 1115010,
         "id": 111501,
         "nameTextMapHash": 1362580043,
@@ -3170,6 +3486,135 @@
             0.4000000059604645,
             8.0,
             0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1115110,
+        "id": 111511,
+        "nameTextMapHash": 1054221195,
+        "descTextMapHash": 1381038833,
+        "openConfig": "Weapon_Sword_Deshret",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "value": 0.20000000298023224
+            },
+            {},
+            {}
+        ],
+        "paramList": [
+            0.20000000298023224,
+            0.0012000000569969416,
+            20.0,
+            0.30000001192092896,
+            0.0020000000949949026,
+            20.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1115111,
+        "id": 111511,
+        "level": 1,
+        "nameTextMapHash": 1783041251,
+        "descTextMapHash": 1850615761,
+        "openConfig": "Weapon_Sword_Deshret",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "value": 0.25
+            },
+            {},
+            {}
+        ],
+        "paramList": [
+            0.25,
+            0.001500000013038516,
+            20.0,
+            0.30000001192092896,
+            0.0024999999441206455,
+            20.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1115112,
+        "id": 111511,
+        "level": 2,
+        "nameTextMapHash": 4214751211,
+        "descTextMapHash": 649707033,
+        "openConfig": "Weapon_Sword_Deshret",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "value": 0.30000001192092896
+            },
+            {},
+            {}
+        ],
+        "paramList": [
+            0.30000001192092896,
+            0.0017999999690800905,
+            20.0,
+            0.30000001192092896,
+            0.003000000026077032,
+            20.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1115113,
+        "id": 111511,
+        "level": 3,
+        "nameTextMapHash": 3089763563,
+        "descTextMapHash": 2119140073,
+        "openConfig": "Weapon_Sword_Deshret",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "value": 0.3499999940395355
+            },
+            {},
+            {}
+        ],
+        "paramList": [
+            0.3499999940395355,
+            0.002099999925121665,
+            20.0,
+            0.30000001192092896,
+            0.0035000001080334187,
+            20.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1115114,
+        "id": 111511,
+        "level": 4,
+        "nameTextMapHash": 2244980899,
+        "descTextMapHash": 2529732929,
+        "openConfig": "Weapon_Sword_Deshret",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "value": 0.4000000059604645
+            },
+            {},
+            {}
+        ],
+        "paramList": [
+            0.4000000059604645,
+            0.002400000113993883,
+            20.0,
+            0.30000001192092896,
+            0.004000000189989805,
+            20.0,
             0.0,
             0.0
         ]
@@ -5341,6 +5786,120 @@
         ]
     },
     {
+        "affixId": 1124150,
+        "id": 112415,
+        "nameTextMapHash": 1388031899,
+        "descTextMapHash": 4253695721,
+        "openConfig": "Weapon_Claymore_Pleroma",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            10.0,
+            0.23999999463558197,
+            12.0,
+            0.30000001192092896,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1124151,
+        "id": 112415,
+        "level": 1,
+        "nameTextMapHash": 3452890147,
+        "descTextMapHash": 2631100273,
+        "openConfig": "Weapon_Claymore_Pleroma",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            10.0,
+            0.30000001192092896,
+            12.0,
+            0.30000001192092896,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1124152,
+        "id": 112415,
+        "level": 2,
+        "nameTextMapHash": 3079238395,
+        "descTextMapHash": 2587200169,
+        "openConfig": "Weapon_Claymore_Pleroma",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            10.0,
+            0.36000001430511475,
+            12.0,
+            0.30000001192092896,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1124153,
+        "id": 112415,
+        "level": 3,
+        "nameTextMapHash": 1203956419,
+        "descTextMapHash": 1205059969,
+        "openConfig": "Weapon_Claymore_Pleroma",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            10.0,
+            0.41999998688697815,
+            12.0,
+            0.30000001192092896,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1124154,
+        "id": 112415,
+        "level": 4,
+        "nameTextMapHash": 2153521307,
+        "descTextMapHash": 3020531697,
+        "openConfig": "Weapon_Claymore_Pleroma",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            10.0,
+            0.47999998927116394,
+            12.0,
+            0.30000001192092896,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
         "affixId": 1124160,
         "id": 112416,
         "nameTextMapHash": 737697771,
@@ -5448,6 +6007,120 @@
             0.800000011920929,
             0.0,
             0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1124170,
+        "id": 112417,
+        "nameTextMapHash": 3264225139,
+        "descTextMapHash": 3788767897,
+        "openConfig": "Weapon_Claymore_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            60.0,
+            12.0,
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1124171,
+        "id": 112417,
+        "level": 1,
+        "nameTextMapHash": 1398894123,
+        "descTextMapHash": 1250863065,
+        "openConfig": "Weapon_Claymore_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            75.0,
+            12.0,
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1124172,
+        "id": 112417,
+        "level": 2,
+        "nameTextMapHash": 1999252763,
+        "descTextMapHash": 2950728033,
+        "openConfig": "Weapon_Claymore_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            90.0,
+            12.0,
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1124173,
+        "id": 112417,
+        "level": 3,
+        "nameTextMapHash": 792456187,
+        "descTextMapHash": 3409962761,
+        "openConfig": "Weapon_Claymore_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            105.0,
+            12.0,
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1124174,
+        "id": 112417,
+        "level": 4,
+        "nameTextMapHash": 2691070627,
+        "descTextMapHash": 2847008297,
+        "openConfig": "Weapon_Claymore_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            120.0,
+            12.0,
+            20.0,
+            10.0,
             0.0,
             0.0,
             0.0,
@@ -8053,6 +8726,234 @@
         ]
     },
     {
+        "affixId": 1134170,
+        "id": 113417,
+        "nameTextMapHash": 3177166091,
+        "descTextMapHash": 3977927625,
+        "openConfig": "Weapon_Pole_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.1599999964237213,
+            12.0,
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1134171,
+        "id": 113417,
+        "level": 1,
+        "nameTextMapHash": 3533588491,
+        "descTextMapHash": 2139257321,
+        "openConfig": "Weapon_Pole_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.20000000298023224,
+            12.0,
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1134172,
+        "id": 113417,
+        "level": 2,
+        "nameTextMapHash": 436278779,
+        "descTextMapHash": 3276080153,
+        "openConfig": "Weapon_Pole_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.23999999463558197,
+            12.0,
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1134173,
+        "id": 113417,
+        "level": 3,
+        "nameTextMapHash": 3066823523,
+        "descTextMapHash": 2411818033,
+        "openConfig": "Weapon_Pole_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.2800000011920929,
+            12.0,
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1134174,
+        "id": 113417,
+        "level": 4,
+        "nameTextMapHash": 3717341819,
+        "descTextMapHash": 2688364001,
+        "openConfig": "Weapon_Pole_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.3199999928474426,
+            12.0,
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1134190,
+        "id": 113419,
+        "nameTextMapHash": 2975846323,
+        "descTextMapHash": 3285409097,
+        "openConfig": "Weapon_Pole_Windvane",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.11999999731779099,
+            48.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1134191,
+        "id": 113419,
+        "level": 1,
+        "nameTextMapHash": 1908721923,
+        "descTextMapHash": 3326677273,
+        "openConfig": "Weapon_Pole_Windvane",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.15000000596046448,
+            60.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1134192,
+        "id": 113419,
+        "level": 2,
+        "nameTextMapHash": 1200187531,
+        "descTextMapHash": 2164830705,
+        "openConfig": "Weapon_Pole_Windvane",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.18000000715255737,
+            72.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1134193,
+        "id": 113419,
+        "level": 3,
+        "nameTextMapHash": 1877319723,
+        "descTextMapHash": 3006326401,
+        "openConfig": "Weapon_Pole_Windvane",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.20999999344348907,
+            84.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1134194,
+        "id": 113419,
+        "level": 4,
+        "nameTextMapHash": 3513240283,
+        "descTextMapHash": 83744945,
+        "openConfig": "Weapon_Pole_Windvane",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.23999999463558197,
+            96.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
         "affixId": 1135010,
         "id": 113501,
         "nameTextMapHash": 3284643571,
@@ -9019,6 +9920,120 @@
             0.5,
             12.0,
             0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1135110,
+        "id": 113511,
+        "nameTextMapHash": 810032979,
+        "descTextMapHash": 1366324041,
+        "openConfig": "Weapon_Pole_Deshret",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.5199999809265137,
+            0.2800000011920929,
+            10.0,
+            0.30000001192092896,
+            3.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1135111,
+        "id": 113511,
+        "level": 1,
+        "nameTextMapHash": 962967571,
+        "descTextMapHash": 3835351777,
+        "openConfig": "Weapon_Pole_Deshret",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.6499999761581421,
+            0.3499999940395355,
+            10.0,
+            0.30000001192092896,
+            3.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1135112,
+        "id": 113511,
+        "level": 2,
+        "nameTextMapHash": 1396338995,
+        "descTextMapHash": 1881405929,
+        "openConfig": "Weapon_Pole_Deshret",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.7799999713897705,
+            0.41999998688697815,
+            10.0,
+            0.30000001192092896,
+            3.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1135113,
+        "id": 113511,
+        "level": 3,
+        "nameTextMapHash": 3415482075,
+        "descTextMapHash": 4097388529,
+        "openConfig": "Weapon_Pole_Deshret",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.9100000262260437,
+            0.49000000953674316,
+            10.0,
+            0.30000001192092896,
+            3.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1135114,
+        "id": 113511,
+        "level": 4,
+        "nameTextMapHash": 3909785739,
+        "descTextMapHash": 368659377,
+        "openConfig": "Weapon_Pole_Deshret",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            1.0399999618530273,
+            0.5600000023841858,
+            10.0,
+            0.30000001192092896,
+            3.0,
             0.0,
             0.0,
             0.0
@@ -11419,6 +12434,234 @@
         ]
     },
     {
+        "affixId": 1144160,
+        "id": 114416,
+        "nameTextMapHash": 3326699803,
+        "descTextMapHash": 936957161,
+        "openConfig": "Weapon_Catalyst_Pleroma",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            10.0,
+            0.23999999463558197,
+            12.0,
+            0.30000001192092896,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1144161,
+        "id": 114416,
+        "level": 1,
+        "nameTextMapHash": 4082982659,
+        "descTextMapHash": 279441465,
+        "openConfig": "Weapon_Catalyst_Pleroma",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            10.0,
+            0.30000001192092896,
+            12.0,
+            0.30000001192092896,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1144162,
+        "id": 114416,
+        "level": 2,
+        "nameTextMapHash": 3756990723,
+        "descTextMapHash": 512729449,
+        "openConfig": "Weapon_Catalyst_Pleroma",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            10.0,
+            0.36000001430511475,
+            12.0,
+            0.30000001192092896,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1144163,
+        "id": 114416,
+        "level": 3,
+        "nameTextMapHash": 3317604851,
+        "descTextMapHash": 305516921,
+        "openConfig": "Weapon_Catalyst_Pleroma",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            10.0,
+            0.41999998688697815,
+            12.0,
+            0.30000001192092896,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1144164,
+        "id": 114416,
+        "level": 4,
+        "nameTextMapHash": 3209694115,
+        "descTextMapHash": 2576455153,
+        "openConfig": "Weapon_Catalyst_Pleroma",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            10.0,
+            0.47999998927116394,
+            12.0,
+            0.30000001192092896,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1144170,
+        "id": 114417,
+        "nameTextMapHash": 2058139371,
+        "descTextMapHash": 3992441009,
+        "openConfig": "Weapon_Catalyst_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            -0.05000000074505806,
+            24.0,
+            0.30000001192092896,
+            6.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1144171,
+        "id": 114417,
+        "level": 1,
+        "nameTextMapHash": 4273692083,
+        "descTextMapHash": 3749660473,
+        "openConfig": "Weapon_Catalyst_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            -0.05000000074505806,
+            27.0,
+            0.30000001192092896,
+            6.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1144172,
+        "id": 114417,
+        "level": 2,
+        "nameTextMapHash": 1718988147,
+        "descTextMapHash": 3123572273,
+        "openConfig": "Weapon_Catalyst_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            -0.05000000074505806,
+            30.0,
+            0.30000001192092896,
+            6.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1144173,
+        "id": 114417,
+        "level": 3,
+        "nameTextMapHash": 108454619,
+        "descTextMapHash": 304674417,
+        "openConfig": "Weapon_Catalyst_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            -0.05000000074505806,
+            33.0,
+            0.30000001192092896,
+            6.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1144174,
+        "id": 114417,
+        "level": 4,
+        "nameTextMapHash": 586598971,
+        "descTextMapHash": 3344113473,
+        "openConfig": "Weapon_Catalyst_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            -0.05000000074505806,
+            36.0,
+            0.30000001192092896,
+            6.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
         "affixId": 1145010,
         "id": 114501,
         "nameTextMapHash": 2012979963,
@@ -12239,6 +13482,120 @@
             0.23999999463558197,
             16.0,
             0.23999999463558197,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1145110,
+        "id": 114511,
+        "nameTextMapHash": 225077435,
+        "descTextMapHash": 3277953105,
+        "openConfig": "Weapon_Catalyst_Ayus",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            32.0,
+            0.10000000149011612,
+            40.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1145111,
+        "id": 114511,
+        "level": 1,
+        "nameTextMapHash": 2776303811,
+        "descTextMapHash": 3483183761,
+        "openConfig": "Weapon_Catalyst_Ayus",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            40.0,
+            0.14000000059604645,
+            42.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1145112,
+        "id": 114511,
+        "level": 2,
+        "nameTextMapHash": 2108426435,
+        "descTextMapHash": 1346697681,
+        "openConfig": "Weapon_Catalyst_Ayus",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            48.0,
+            0.18000000715255737,
+            44.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1145113,
+        "id": 114511,
+        "level": 3,
+        "nameTextMapHash": 1514094739,
+        "descTextMapHash": 1288839953,
+        "openConfig": "Weapon_Catalyst_Ayus",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            56.0,
+            0.2199999988079071,
+            46.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1145114,
+        "id": 114511,
+        "level": 4,
+        "nameTextMapHash": 453444347,
+        "descTextMapHash": 176349145,
+        "openConfig": "Weapon_Catalyst_Ayus",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            64.0,
+            0.25999999046325684,
+            48.0,
             0.0,
             0.0,
             0.0,
@@ -14075,17 +15432,17 @@
         "id": 115411,
         "nameTextMapHash": 4218009595,
         "descTextMapHash": 3378712409,
-        "openConfig": "Weapon_Bow_RangeAttackOnExtraAttackLanded",
+        "openConfig": "Weapon_Bow_FallenSun",
         "addProps": [
             {},
             {},
             {}
         ],
         "paramList": [
-            2.4000000953674316,
-            10.0,
-            0.0,
-            0.0,
+            7.0,
+            0.05999999865889549,
+            0.10000000149011612,
+            0.14000000059604645,
             0.0,
             0.0,
             0.0,
@@ -14098,17 +15455,17 @@
         "level": 1,
         "nameTextMapHash": 3677412523,
         "descTextMapHash": 3843600817,
-        "openConfig": "Weapon_Bow_RangeAttackOnExtraAttackLanded",
+        "openConfig": "Weapon_Bow_FallenSun",
         "addProps": [
             {},
             {},
             {}
         ],
         "paramList": [
-            3.0,
-            10.0,
-            0.0,
-            0.0,
+            7.0,
+            0.07500000298023224,
+            0.125,
+            0.17499999701976776,
             0.0,
             0.0,
             0.0,
@@ -14121,17 +15478,17 @@
         "level": 2,
         "nameTextMapHash": 65635723,
         "descTextMapHash": 3471843569,
-        "openConfig": "Weapon_Bow_RangeAttackOnExtraAttackLanded",
+        "openConfig": "Weapon_Bow_FallenSun",
         "addProps": [
             {},
             {},
             {}
         ],
         "paramList": [
-            3.5999999046325684,
-            10.0,
-            0.0,
-            0.0,
+            7.0,
+            0.09000000357627869,
+            0.15000000596046448,
+            0.20999999344348907,
             0.0,
             0.0,
             0.0,
@@ -14144,17 +15501,17 @@
         "level": 3,
         "nameTextMapHash": 1031322395,
         "descTextMapHash": 4210777393,
-        "openConfig": "Weapon_Bow_RangeAttackOnExtraAttackLanded",
+        "openConfig": "Weapon_Bow_FallenSun",
         "addProps": [
             {},
             {},
             {}
         ],
         "paramList": [
-            4.199999809265137,
-            10.0,
-            0.0,
-            0.0,
+            7.0,
+            0.10499999672174454,
+            0.17499999701976776,
+            0.24500000476837158,
             0.0,
             0.0,
             0.0,
@@ -14167,17 +15524,17 @@
         "level": 4,
         "nameTextMapHash": 2915865819,
         "descTextMapHash": 172930873,
-        "openConfig": "Weapon_Bow_RangeAttackOnExtraAttackLanded",
+        "openConfig": "Weapon_Bow_FallenSun",
         "addProps": [
             {},
             {},
             {}
         ],
         "paramList": [
-            4.800000190734863,
-            10.0,
-            0.0,
-            0.0,
+            7.0,
+            0.11999999731779099,
+            0.20000000298023224,
+            0.2800000011920929,
             0.0,
             0.0,
             0.0,
@@ -14657,6 +16014,234 @@
             0.0,
             0.0,
             0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1154170,
+        "id": 115417,
+        "nameTextMapHash": 2741603307,
+        "descTextMapHash": 968925825,
+        "openConfig": "Weapon_Bow_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            60.0,
+            12.0,
+            1.0,
+            20.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1154171,
+        "id": 115417,
+        "level": 1,
+        "nameTextMapHash": 3081860275,
+        "descTextMapHash": 719975745,
+        "openConfig": "Weapon_Bow_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            80.0,
+            12.0,
+            1.2000000476837158,
+            20.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1154172,
+        "id": 115417,
+        "level": 2,
+        "nameTextMapHash": 433141419,
+        "descTextMapHash": 1571660977,
+        "openConfig": "Weapon_Bow_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            100.0,
+            12.0,
+            1.399999976158142,
+            20.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1154173,
+        "id": 115417,
+        "level": 3,
+        "nameTextMapHash": 3664634043,
+        "descTextMapHash": 1088897665,
+        "openConfig": "Weapon_Bow_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            120.0,
+            12.0,
+            1.600000023841858,
+            20.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1154174,
+        "id": 115417,
+        "level": 4,
+        "nameTextMapHash": 3956074723,
+        "descTextMapHash": 1613193777,
+        "openConfig": "Weapon_Bow_Arakalari",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            140.0,
+            12.0,
+            1.7999999523162842,
+            20.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1154180,
+        "id": 115418,
+        "nameTextMapHash": 280615747,
+        "descTextMapHash": 1439153113,
+        "openConfig": "Weapon_Bow_Fin",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.800000011920929,
+            15.0,
+            3.0,
+            2.0,
+            12.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1154181,
+        "id": 115418,
+        "level": 1,
+        "nameTextMapHash": 1973085531,
+        "descTextMapHash": 528144953,
+        "openConfig": "Weapon_Bow_Fin",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            1.0,
+            15.0,
+            3.0,
+            2.0,
+            12.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1154182,
+        "id": 115418,
+        "level": 2,
+        "nameTextMapHash": 1136260067,
+        "descTextMapHash": 1411249217,
+        "openConfig": "Weapon_Bow_Fin",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            1.2000000476837158,
+            15.0,
+            3.0,
+            2.0,
+            12.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1154183,
+        "id": 115418,
+        "level": 3,
+        "nameTextMapHash": 1740575163,
+        "descTextMapHash": 1049862001,
+        "openConfig": "Weapon_Bow_Fin",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            1.399999976158142,
+            15.0,
+            3.0,
+            2.0,
+            12.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1154184,
+        "id": 115418,
+        "level": 4,
+        "nameTextMapHash": 3453611803,
+        "descTextMapHash": 3079622417,
+        "openConfig": "Weapon_Bow_Fin",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            1.600000023841858,
+            15.0,
+            3.0,
+            2.0,
+            12.0,
             0.0,
             0.0,
             0.0
@@ -15293,6 +16878,135 @@
         ]
     },
     {
+        "affixId": 1155080,
+        "id": 115508,
+        "nameTextMapHash": 665618219,
+        "descTextMapHash": 2574022001,
+        "openConfig": "Weapon_Bow_Kirin",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "value": 0.1599999964237213
+            },
+            {},
+            {}
+        ],
+        "paramList": [
+            0.1599999964237213,
+            0.20000000298023224,
+            0.5,
+            1.2000000476837158,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1155081,
+        "id": 115508,
+        "level": 1,
+        "nameTextMapHash": 1836768195,
+        "descTextMapHash": 2860268457,
+        "openConfig": "Weapon_Bow_Kirin",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "value": 0.20000000298023224
+            },
+            {},
+            {}
+        ],
+        "paramList": [
+            0.20000000298023224,
+            0.25,
+            0.5,
+            1.2000000476837158,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1155082,
+        "id": 115508,
+        "level": 2,
+        "nameTextMapHash": 3401288155,
+        "descTextMapHash": 4062998585,
+        "openConfig": "Weapon_Bow_Kirin",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "value": 0.23999999463558197
+            },
+            {},
+            {}
+        ],
+        "paramList": [
+            0.23999999463558197,
+            0.30000001192092896,
+            0.5,
+            1.2000000476837158,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1155083,
+        "id": 115508,
+        "level": 3,
+        "nameTextMapHash": 859975251,
+        "descTextMapHash": 2433578777,
+        "openConfig": "Weapon_Bow_Kirin",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "value": 0.2800000011920929
+            },
+            {},
+            {}
+        ],
+        "paramList": [
+            0.2800000011920929,
+            0.3499999940395355,
+            0.5,
+            1.2000000476837158,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1155084,
+        "id": 115508,
+        "level": 4,
+        "nameTextMapHash": 3966753539,
+        "descTextMapHash": 4260110017,
+        "openConfig": "Weapon_Bow_Kirin",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "value": 0.3199999928474426
+            },
+            {},
+            {}
+        ],
+        "paramList": [
+            0.3199999928474426,
+            0.4000000059604645,
+            0.5,
+            1.2000000476837158,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
         "affixId": 1155090,
         "id": 115509,
         "nameTextMapHash": 1682410515,
@@ -15531,6 +17245,120 @@
             0.4000000059604645,
             0.6000000238418579,
             0.9599999785423279,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1155110,
+        "id": 115511,
+        "nameTextMapHash": 1173973395,
+        "descTextMapHash": 608698705,
+        "openConfig": "Weapon_Bow_Ayus",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.11999999731779099,
+            1.600000023841858,
+            12.0,
+            10.0,
+            12.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1155111,
+        "id": 115511,
+        "level": 1,
+        "nameTextMapHash": 1082089515,
+        "descTextMapHash": 64084113,
+        "openConfig": "Weapon_Bow_Ayus",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.15000000596046448,
+            2.0,
+            12.0,
+            10.0,
+            12.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1155112,
+        "id": 115511,
+        "level": 2,
+        "nameTextMapHash": 4237332779,
+        "descTextMapHash": 4259653657,
+        "openConfig": "Weapon_Bow_Ayus",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.18000000715255737,
+            2.4000000953674316,
+            12.0,
+            10.0,
+            12.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1155113,
+        "id": 115511,
+        "level": 3,
+        "nameTextMapHash": 2710178587,
+        "descTextMapHash": 2834360001,
+        "openConfig": "Weapon_Bow_Ayus",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.20999999344348907,
+            2.799999952316284,
+            12.0,
+            10.0,
+            12.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1155114,
+        "id": 115511,
+        "level": 4,
+        "nameTextMapHash": 1395607523,
+        "descTextMapHash": 753180665,
+        "openConfig": "Weapon_Bow_Ayus",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.23999999463558197,
+            3.200000047683716,
+            12.0,
+            10.0,
+            12.0,
+            0.0,
             0.0,
             0.0
         ]
@@ -16574,7 +18402,7 @@
         "paramList": [
             0.4000000059604645,
             0.800000011920929,
-            0.0,
+            0.20000000298023224,
             0.0,
             0.0,
             0.0,
@@ -17357,6 +19185,102 @@
             0.20000000298023224,
             0.20000000298023224,
             0.20000000298023224,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 2150250,
+        "id": 215025,
+        "nameTextMapHash": 3857111747,
+        "descTextMapHash": 1987945857,
+        "openConfig": "",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+                "value": 0.15000000596046448
+            },
+            {},
+            {}
+        ],
+        "paramList": [
+            0.15000000596046448,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 2150251,
+        "id": 215025,
+        "level": 1,
+        "nameTextMapHash": 1675079283,
+        "descTextMapHash": 1381267761,
+        "openConfig": "Relic_ReactionGrassEnhance",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.30000001192092896,
+            8.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 2150260,
+        "id": 215026,
+        "nameTextMapHash": 3450579555,
+        "descTextMapHash": 1833229521,
+        "openConfig": "",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 80.0
+            },
+            {},
+            {}
+        ],
+        "paramList": [
+            80.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 2150261,
+        "id": 215026,
+        "level": 1,
+        "nameTextMapHash": 4145306051,
+        "descTextMapHash": 1474644585,
+        "openConfig": "Relic_ElemMasteryGathering",
+        "addProps": [
+            {},
+            {},
+            {}
+        ],
+        "paramList": [
+            0.14000000059604645,
+            50.0,
+            8.0,
+            8.0,
+            0.0,
+            0.0,
             0.0,
             0.0
         ]

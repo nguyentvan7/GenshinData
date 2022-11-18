@@ -87,7 +87,10 @@
         "SheetNameTextMapHash": 3025887360,
         "cond": [
             {
-                "param": []
+                "type": "ACTIVITY_SHOP_SHEET_COND_TIME_EQUAL_GREATER",
+                "param": [
+                    1
+                ]
             },
             {
                 "param": []
@@ -403,6 +406,125 @@
                 "type": "ACTIVITY_SHOP_SHEET_COND_TIME_EQUAL_GREATER",
                 "param": [
                     7
+                ]
+            },
+            {
+                "param": []
+            }
+        ],
+        "sortLevel": []
+    },
+    {
+        "id": 26,
+        "isAheadPreview": true,
+        "SheetNameTextMapHash": 3986637960,
+        "cond": [
+            {
+                "type": "ACTIVITY_SHOP_SHEET_COND_TIME_EQUAL_GREATER",
+                "param": [
+                    1
+                ]
+            },
+            {
+                "param": []
+            }
+        ],
+        "sortLevel": []
+    },
+    {
+        "id": 27,
+        "isAheadPreview": true,
+        "SheetNameTextMapHash": 2358135840,
+        "cond": [
+            {
+                "type": "ACTIVITY_SHOP_SHEET_COND_TIME_EQUAL_GREATER",
+                "param": [
+                    2
+                ]
+            },
+            {
+                "param": []
+            }
+        ],
+        "sortLevel": []
+    },
+    {
+        "id": 28,
+        "isAheadPreview": true,
+        "SheetNameTextMapHash": 3328555368,
+        "cond": [
+            {
+                "type": "ACTIVITY_SHOP_SHEET_COND_TIME_EQUAL_GREATER",
+                "param": [
+                    1
+                ]
+            },
+            {
+                "param": []
+            }
+        ],
+        "sortLevel": []
+    },
+    {
+        "id": 29,
+        "isAheadPreview": true,
+        "SheetNameTextMapHash": 2103229360,
+        "cond": [
+            {
+                "type": "ACTIVITY_SHOP_SHEET_COND_TIME_EQUAL_GREATER",
+                "param": [
+                    1
+                ]
+            },
+            {
+                "param": []
+            }
+        ],
+        "sortLevel": []
+    },
+    {
+        "id": 30,
+        "isAheadPreview": true,
+        "SheetNameTextMapHash": 704111296,
+        "cond": [
+            {
+                "type": "ACTIVITY_SHOP_SHEET_COND_TIME_EQUAL_GREATER",
+                "param": [
+                    1
+                ]
+            },
+            {
+                "param": []
+            }
+        ],
+        "sortLevel": []
+    },
+    {
+        "id": 31,
+        "isAheadPreview": true,
+        "SheetNameTextMapHash": 3910721104,
+        "cond": [
+            {
+                "type": "ACTIVITY_SHOP_SHEET_COND_TIME_EQUAL_GREATER",
+                "param": [
+                    1
+                ]
+            },
+            {
+                "param": []
+            }
+        ],
+        "sortLevel": []
+    },
+    {
+        "id": 32,
+        "isAheadPreview": true,
+        "SheetNameTextMapHash": 1533743808,
+        "cond": [
+            {
+                "type": "ACTIVITY_SHOP_SHEET_COND_TIME_EQUAL_GREATER",
+                "param": [
+                    1
                 ]
             },
             {

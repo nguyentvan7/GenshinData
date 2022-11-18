@@ -58,5 +58,15 @@
         "id": 106401,
         "mainCoopCfg": "Coop106401",
         "mainQuestSeries": 106401
+    },
+    {
+        "id": 106501,
+        "mainCoopCfg": "Coop106501",
+        "mainQuestSeries": 106501
+    },
+    {
+        "id": 105901,
+        "mainCoopCfg": "Coop105901",
+        "mainQuestSeries": 105901
     }
 ]

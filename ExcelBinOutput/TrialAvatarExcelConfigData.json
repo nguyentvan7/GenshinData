@@ -304,6 +304,143 @@
         "isDynamicLevel": true
     },
     {
+        "trialAvatarId": 39,
+        "trialAvatarParamList": [
+            10000060,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 40,
+        "trialAvatarParamList": [
+            10000048,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 41,
+        "trialAvatarParamList": [
+            10000060,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 42,
+        "trialAvatarParamList": [
+            10000026,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 43,
+        "trialAvatarParamList": [
+            10000016,
+            30
+        ],
+        "isDynamicLevel": true,
+        "trialWeaponParamList": 201601
+    },
+    {
+        "trialAvatarId": 44,
+        "trialAvatarParamList": [
+            10000047,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 45,
+        "trialAvatarParamList": [
+            10000041,
+            30
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 46,
+        "trialAvatarParamList": [
+            10000031,
+            30
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 47,
+        "trialAvatarParamList": [
+            10000047,
+            30
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 48,
+        "trialAvatarParamList": [
+            10000044,
+            30
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 49,
+        "trialAvatarParamList": [
+            10000069,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 50,
+        "trialAvatarParamList": [
+            10000070,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 51,
+        "trialAvatarParamList": [
+            10000020,
+            26
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 52,
+        "trialAvatarParamList": [
+            10000071,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 53,
+        "trialAvatarParamList": [
+            10000073,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 54,
+        "trialAvatarParamList": [
+            10000070,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 55,
+        "trialAvatarParamList": [
+            10000073,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
         "trialAvatarId": 500,
         "trialAvatarParamList": [
             10000034,
@@ -339,6 +476,14 @@
         "trialAvatarId": 504,
         "trialAvatarParamList": [
             10000027,
+            26
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 505,
+        "trialAvatarParamList": [
+            10000065,
             26
         ],
         "isDynamicLevel": true
@@ -638,6 +783,27 @@
         ]
     },
     {
+        "trialAvatarId": 1058,
+        "trialAvatarParamList": [
+            10000065,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1059,
+        "trialAvatarParamList": [
+            10000060,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1060,
+        "trialAvatarParamList": [
+            10000059,
+            80
+        ]
+    },
+    {
         "trialAvatarId": 1063,
         "trialAvatarParamList": [
             10000063,
@@ -662,6 +828,62 @@
         "trialAvatarId": 1066,
         "trialAvatarParamList": [
             10000066,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1067,
+        "trialAvatarParamList": [
+            10000067,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1068,
+        "trialAvatarParamList": [
+            10000068,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1069,
+        "trialAvatarParamList": [
+            10000069,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1070,
+        "trialAvatarParamList": [
+            10000070,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1071,
+        "trialAvatarParamList": [
+            10000071,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1072,
+        "trialAvatarParamList": [
+            10000072,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1073,
+        "trialAvatarParamList": [
+            10000074,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1074,
+        "trialAvatarParamList": [
+            10000073,
             80
         ]
     },
@@ -974,6 +1196,125 @@
         ]
     },
     {
+        "trialAvatarId": 6041,
+        "trialAvatarParamList": [
+            10000060,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6042,
+        "trialAvatarParamList": [
+            10000030,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6043,
+        "trialAvatarParamList": [
+            10000003,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6044,
+        "trialAvatarParamList": [
+            10000029,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6045,
+        "trialAvatarParamList": [
+            10000046,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6046,
+        "trialAvatarParamList": [
+            10000032,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6047,
+        "trialAvatarParamList": [
+            10000069,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6048,
+        "trialAvatarParamList": [
+            10000067,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6049,
+        "trialAvatarParamList": [
+            10000068,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6050,
+        "trialAvatarParamList": [
+            10000059,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6051,
+        "trialAvatarParamList": [
+            10000065,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6052,
+        "trialAvatarParamList": [
+            10000070,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6053,
+        "trialAvatarParamList": [
+            10000071,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6054,
+        "trialAvatarParamList": [
+            10000072,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6055,
+        "trialAvatarParamList": [
+            10000034,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6056,
+        "trialAvatarParamList": [
+            10000073,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6057,
+        "trialAvatarParamList": [
+            10000074,
+            80
+        ]
+    },
+    {
         "trialAvatarId": 10000,
         "trialAvatarParamList": [
             10000005,
@@ -986,5 +1327,71 @@
             10000007,
             80
         ]
+    },
+    {
+        "trialAvatarId": 10002,
+        "trialAvatarParamList": [
+            10000005,
+            80
+        ],
+        "BBBMBJGOPGE": true
+    },
+    {
+        "trialAvatarId": 10003,
+        "trialAvatarParamList": [
+            10000007,
+            80
+        ],
+        "BBBMBJGOPGE": true
+    },
+    {
+        "trialAvatarId": 10004,
+        "trialAvatarParamList": [
+            10000005,
+            80
+        ],
+        "trialSkillDepotId": 10000005,
+        "BBBMBJGOPGE": true
+    },
+    {
+        "trialAvatarId": 10005,
+        "trialAvatarParamList": [
+            10000007,
+            80
+        ],
+        "trialSkillDepotId": 10000007,
+        "BBBMBJGOPGE": true
+    },
+    {
+        "trialAvatarId": 10500,
+        "trialAvatarParamList": [
+            10000047,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 10501,
+        "trialAvatarParamList": [
+            10000047,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 10502,
+        "trialAvatarParamList": [
+            10000047,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 10503,
+        "trialAvatarParamList": [
+            10000047,
+            35
+        ],
+        "isDynamicLevel": true
     }
 ]

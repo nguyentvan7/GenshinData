@@ -348,6 +348,18 @@
         "avatarDescriptionTextMapHash": 3879963736
     },
     {
+        "id": 59,
+        "subQuestIdList": [],
+        "avatarID": 10000059,
+        "avatarDescriptionTextMapHash": 2923775616
+    },
+    {
+        "id": 60,
+        "subQuestIdList": [],
+        "avatarID": 10000060,
+        "avatarDescriptionTextMapHash": 686091216
+    },
+    {
         "id": 63,
         "subQuestIdList": [
             200607
@@ -362,11 +374,71 @@
         "avatarDescriptionTextMapHash": 1176323328
     },
     {
+        "id": 65,
+        "subQuestIdList": [],
+        "avatarID": 10000065,
+        "avatarDescriptionTextMapHash": 1854741648
+    },
+    {
         "id": 66,
         "subQuestIdList": [
             1203304
         ],
         "avatarID": 10000066,
         "avatarDescriptionTextMapHash": 3389528560
+    },
+    {
+        "id": 67,
+        "subQuestIdList": [],
+        "avatarID": 10000067,
+        "avatarDescriptionTextMapHash": 2398788960
+    },
+    {
+        "id": 68,
+        "subQuestIdList": [],
+        "avatarID": 10000068,
+        "avatarDescriptionTextMapHash": 3884736664
+    },
+    {
+        "id": 69,
+        "subQuestIdList": [],
+        "avatarID": 10000069,
+        "avatarDescriptionTextMapHash": 702896392
+    },
+    {
+        "id": 70,
+        "subQuestIdList": [],
+        "avatarID": 10000070,
+        "avatarDescriptionTextMapHash": 1157632080
+    },
+    {
+        "id": 73,
+        "subQuestIdList": [],
+        "avatarID": 10000073,
+        "avatarDescriptionTextMapHash": 3420158616
+    },
+    {
+        "id": 71,
+        "subQuestIdList": [],
+        "avatarID": 10000071,
+        "avatarDescriptionTextMapHash": 56492184
+    },
+    {
+        "id": 72,
+        "subQuestIdList": [],
+        "avatarID": 10000072,
+        "avatarDescriptionTextMapHash": 1481739784
+    },
+    {
+        "id": 80,
+        "subQuestIdList": [],
+        "avatarID": 10000080,
+        "avatarDescriptionTextMapHash": 1971409688
+    },
+    {
+        "id": 74,
+        "subQuestIdList": [],
+        "avatarID": 10000074,
+        "avatarDescriptionTextMapHash": 2319245416
     }
 ]

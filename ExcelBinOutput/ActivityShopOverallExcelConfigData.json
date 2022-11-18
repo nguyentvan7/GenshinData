@@ -56,13 +56,6 @@
         ]
     },
     {
-        "scheduleId": 5035001,
-        "shopType": "SHOP_TYPE_ACTIVITY_TREASURE_MAP",
-        "sheetList": [
-            6
-        ]
-    },
-    {
         "scheduleId": 2006001,
         "shopType": "SHOP_TYPE_ACTIVITY_BLITZ_RUSH",
         "sheetList": [
@@ -100,6 +93,50 @@
             23,
             24,
             25
+        ]
+    },
+    {
+        "scheduleId": 2013001,
+        "shopType": "SHOP_TYPE_ACTIVITY_ROGUE_DIARY",
+        "sheetList": [
+            26
+        ]
+    },
+    {
+        "scheduleId": 2014001,
+        "shopType": "SHOP_TYPE_ACTIVITY_SUMMER_TIME_V2",
+        "sheetList": [
+            27
+        ]
+    },
+    {
+        "scheduleId": 2015001,
+        "shopType": "SHOP_TYPE_ACTIVITY_GRAVEN_INNOCENCE",
+        "sheetList": [
+            28,
+            29
+        ]
+    },
+    {
+        "scheduleId": 5091001,
+        "shopType": "SHOP_TYPE_ACTIVITY_TREASURE_MAP",
+        "sheetList": [
+            6
+        ]
+    },
+    {
+        "scheduleId": 5107001,
+        "shopType": "SHOP_TYPE_ACTIVITY_EFFIGY_V2",
+        "sheetList": [
+            30
+        ]
+    },
+    {
+        "scheduleId": 2017001,
+        "shopType": "SHOP_TYPE_ACTIVITY_FUNGUS_FIGHTER",
+        "sheetList": [
+            31,
+            32
         ]
     }
 ]
